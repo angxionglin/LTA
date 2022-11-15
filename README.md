@@ -126,13 +126,13 @@ Check the following
 Go to Files -> Build Settings -> Select Universal Windows Platform (Switch Platform if you haven't)
 
 Follow the Configuration 
-Target Device:            Hololens
-Architecture:             ARM64
-Target SDK Version:       Choose the one installed, for this case is 10.0.19041.0
-Minimum Platform Version: Choose the lowest, for this case is 10.0.10240.0
-Visual Studio Version:    Your Preference, for this case is Latest Installed
-Build and Run on:         USB Device
-Build Configuration:      *Release*
+- Target Device:            Hololens
+- Architecture:             ARM64
+- Target SDK Version:       Choose the one installed, for this case is 10.0.19041.0
+- Minimum Platform Version: Choose the lowest, for this case is 10.0.10240.0
+- Visual Studio Version:    Your Preference, for this case is Latest Installed
+- Build and Run on:         USB Device
+- Build Configuration:      *Release*
 
 Check Development Build
 
