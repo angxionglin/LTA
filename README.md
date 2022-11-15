@@ -193,7 +193,7 @@ Rest just leave it as it is
 
 ![image](https://user-images.githubusercontent.com/25051402/201847420-04d22c40-9e90-42ac-94bb-2cee3659e238.png)
 
- **Please ensure Hololens and uploading Computer/PC is on the same Network before uploading**
+ **Please ensure Hololens and the uploading Computer/PC is on the same Network before uploading**
 
 **Takes around 5-15min per Upload**
 
