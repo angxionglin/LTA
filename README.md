@@ -7,7 +7,9 @@
 - IOS
 - R&T Website
 
-## Current Feature
+---
+
+## Current Features
 
 ### Hololens 2
 
@@ -19,7 +21,23 @@
 6) Object Detection
 7) Measure
 8) Indoor Navigation (Work in Progress)
-9) Remote Collaboration (Work in Progress)
+9) LTA-Verse (Work in Progress) (Augmented Reality)
+- Collaboration (No Voice)
+- Check Room Status
+
+### Anddroid 
+
+1) LTA-Verse (Virtual Reality)
+- Collaboration
+- Check Room Status
+
+### Iphone
+
+1) LTA-Verse (Virtual Reality)
+- Collboration
+- Check Room Status
+
+---
 
 ## Rooms for Improvement
 
@@ -29,7 +47,7 @@
 2) Face Recognition using own model instead of API
 3) Grid / Box Layout on Object Detection
 4) Grid / Box Layout on Face Recognitiion
-5) Source for other multiplaye option
+5) Source for other multiplayer option
 
 ### Android
 
@@ -44,6 +62,8 @@
 3) Deploy on Appstore
 
 ### Mirage Solo
+
+---
 
 ## Problems Facings
 
