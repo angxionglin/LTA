@@ -96,7 +96,7 @@ To know about the MRTK Toolkit you can read it up [here](https://learn.microsoft
 
 Go to Edit -> Preferences -> External Tools
 
-Select External Script Editor as the Visual Studio Version you prefer
+Select the Visual Studio Version you prefer for the External Script Editor 
 
 Under the 'Generate .csproj files for' 
 Check the following
