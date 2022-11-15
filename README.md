@@ -92,12 +92,11 @@ To know about the MRTK Toolkit you can read it up [here](https://learn.microsoft
 ### Installing and Importing Packages in Unity
 
 Ensure you have NuGet in Unity
+
 ![image](https://user-images.githubusercontent.com/25051402/201816239-0c8e1cbd-954e-4f4a-a26a-61c2901c4c41.png)
 
 If not, 
 Install the NuGet for Unity by Assets -> Import Package -> Custom Package -> Select [NuGetForUnity](https://github.com/GlitchEnzo/NuGetForUnity/releases/download/v3.0.5/NugetForUnity.3.0.5.unitypackage) you've previously installed 
-
-
 
 ### Linking up Visual Studio and Unity for Auto Complete statements when coding / developing in Visual Studio
 
@@ -120,6 +119,23 @@ Check the following
 ![image](https://user-images.githubusercontent.com/25051402/201815209-163efeb2-6fe6-4a0c-a076-237235f14db8.png)
 
 ### Setting up the Build Settings in Unity
+
+Go to Files -> Build Settings -> Select Universal Windows Platform (Switch Platform if you haven't)
+
+Follow the Configuration 
+Target Device:            Hololens
+Architecture:             ARM64
+Target SDK Version:       Choose the one installed, for this case is 10.0.19041.0
+Minimum Platform Version: Choose the lowest, for this case is 10.0.10240.0
+Visual Studio Version:    Your Preference, for this case is Latest Installed
+Build and Run on:         USB Device
+Build Configuration:      *Release*
+
+Check Development Build
+
+Rest just leave it as it is
+
+![image](https://user-images.githubusercontent.com/25051402/201820544-46ac0db9-c367-45b2-97c9-173487debf05.png)
 
 --- 
 
