@@ -156,10 +156,41 @@ Rest just leave it as it is
 
 ![image](https://user-images.githubusercontent.com/25051402/201820544-46ac0db9-c367-45b2-97c9-173487debf05.png)
 
---- 
-
-## References
-
 ---
+
+## Steps to Build / Upload App
+
+1) Go to the Build folder
+2) Open up the solution(.sln) folder. Eg. LTA-HARP.sln
+
+![image](https://user-images.githubusercontent.com/25051402/201843278-766819e6-b719-4df4-8fe6-1f93e863ba07.png)
+
+3) Right Click LTA-Harp in the **Solution Explorer**
+
+![image](https://user-images.githubusercontent.com/25051402/201844529-c71a17d6-de34-4928-8cb7-a3f5bd70d713.png)
+
+4) Publish -> Create App Packages -> Sideloading -> Yes, use the current certificate -> Check ARM64 (**Release**) -> Create
+
+![image](https://user-images.githubusercontent.com/25051402/201844823-bb1debc4-b329-4475-8a12-375f5011f5ec.png)
+
+![image](https://user-images.githubusercontent.com/25051402/201845244-cc4c79ce-7a56-41b7-b3b2-16c876c9cc64.png)
+
+![image](https://user-images.githubusercontent.com/25051402/201845311-ba985bf0-113f-4877-87f5-908f6ffdd4bd.png)
+
+![image](https://user-images.githubusercontent.com/25051402/201845629-c312676a-8c55-42fb-a919-57988f1de691.png)
+
+![image](https://user-images.githubusercontent.com/25051402/201845691-aff5e0b4-0b7c-4aa5-a233-02f6335476f2.png)
+
+5) Debug -> <App Name> Debug Properties
+
+![image](https://user-images.githubusercontent.com/25051402/201846071-cea5eb8b-3fba-432b-8971-a42681ed8b1f.png)
+
+ 6) Debugging -> Machine Name -> IP Address of Hololens
+
+![image](https://user-images.githubusercontent.com/25051402/201846372-32787c26-420b-4cb3-bb65-f0de5832fb62.png)
+
+ **Please Ensure Hololens and Uploading Computer/PC is on the same Network before Uploading**
+
+**Takes around 5-15min Per Upload**
 
 
