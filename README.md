@@ -91,7 +91,21 @@ To know about the MRTK Toolkit you can read it up [here](https://learn.microsoft
 
 
 ### Installing more Packages in Unity
----
+
+### Linking up Visual Studio and Unity for Auto Complete statements when coding / developing in Visual Studio
+
+Go to Edit -> Preferences -> External Tools
+
+Select External Script Editor as the Visual Studio Version you prefer
+
+Under the 'Generate .csproj files for' 
+Check the following
+- test
+- test
+
+![image](https://user-images.githubusercontent.com/25051402/201814555-b883820b-f0c9-43b9-8ba7-52a8ad66a7fb.png)
+
+--- 
 
 ## References
 
