@@ -1,8 +1,6 @@
-This is for the Hololens 2 (HARP)
-=====
+# This is for the Hololens 2 (HARP)
 
 ## Installation of Necessary Softwares/Toolkits/Packages/Dependencies
-=====
 
 ### Installation of Unity Hub
 Firstly, you must have the Unity Hub Installed which you can access it [here](https://public-cdn.cloud.unity3d.com/hub/prod/UnityHubSetup.exe) if not [here](https://unity3d.com/get-unity/download)
