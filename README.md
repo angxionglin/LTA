@@ -8,7 +8,7 @@
 
 Git Clone / Pull or Download as Zip in the following GitHub Repository
 
-## Installation of Window SDK
+### Installation of Window SDK
 Install the Window SDK (Version 10.0.19041.0) needed for Hololens 2. Click [here](https://go.microsoft.com/fwlink/?linkid=2120843) to download if not find the references [here](https://developer.microsoft.com/en-us/windows/downloads/sdk-archive/)
 
 ### Installation of Unity Hub
@@ -53,6 +53,8 @@ To know about the MRTK Toolkit you can read it up [here](https://learn.microsoft
 ### Unity 3rd Party Packages
 
 - [NuGetForUnity](https://github.com/GlitchEnzo/NuGetForUnity/releases/download/v3.0.5/NugetForUnity.3.0.5.unitypackage) 
+- [Spatial Anchor Asset 1](https://github.com/microsoft/MixedRealityLearning/releases/download/getting-started-v2.4.0/MRTK.HoloLens2.Unity.Tutorials.Assets.GettingStarted.2.4.0.unitypackage)
+- [Spatial Anchor Asset 2](https://github.com/microsoft/MixedRealityLearning/releases/download/azure-spatial-anchors-v2.5.3.1/MRTK.HoloLens2.Unity.Tutorials.Assets.AzureSpatialAnchors.XRplugginManagement.2.5.3.unitypackage)
 
 ---
 
