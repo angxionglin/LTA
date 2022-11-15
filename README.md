@@ -56,6 +56,10 @@ To know about the MRTK Toolkit you can read it up [here](https://learn.microsoft
 - [Spatial Anchor Asset 1](https://github.com/microsoft/MixedRealityLearning/releases/download/getting-started-v2.4.0/MRTK.HoloLens2.Unity.Tutorials.Assets.GettingStarted.2.4.0.unitypackage)
 - [Spatial Anchor Asset 2](https://github.com/microsoft/MixedRealityLearning/releases/download/azure-spatial-anchors-v2.5.3.1/MRTK.HoloLens2.Unity.Tutorials.Assets.AzureSpatialAnchors.XRplugginManagement.2.5.3.unitypackage)
 
+### Asset from Unity Store
+- [PUN 2 (Photon Engine)](https://assetstore.unity.com/packages/tools/network/pun-2-free-119922)
+- [Photon Voice 2](https://assetstore.unity.com/packages/tools/audio/photon-voice-2-130518)
+
 ---
 
 ## Setting up the Working Environment
