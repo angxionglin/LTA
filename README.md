@@ -188,9 +188,13 @@ Rest just leave it as it is
  6) Debugging -> Machine Name -> IP Address of Hololens
 
 ![image](https://user-images.githubusercontent.com/25051402/201846372-32787c26-420b-4cb3-bb65-f0de5832fb62.png)
+ 
+ 7) Configure the Setting to be **Release**, **ARM64** -> Run **Remote Machine** to upload
 
- **Please Ensure Hololens and Uploading Computer/PC is on the same Network before Uploading**
+![image](https://user-images.githubusercontent.com/25051402/201847420-04d22c40-9e90-42ac-94bb-2cee3659e238.png)
 
-**Takes around 5-15min Per Upload**
+ **Please ensure Hololens and uploading Computer/PC is on the same Network before uploading**
+
+**Takes around 5-15min per Upload**
 
 
