@@ -2,7 +2,7 @@
 
 ---
 
-## Installation of Necessary Softwares/Toolkits
+## Installation of Necessary Softwares/Toolkits/Packages/Dependencies
 
 ### Installation of Unity Hub
 Firstly, you must have the Unity Hub Installed which you can access it [here](https://public-cdn.cloud.unity3d.com/hub/prod/UnityHubSetup.exe) if not [here](https://unity3d.com/get-unity/download)
@@ -19,7 +19,7 @@ Modules needed for Unity 2022.3.33f1 to Develop in Hololens 2
 ### Choose the Visual Studio you prefer to use
 Tested with VS Community 2022 and VS Commmunity 2019. You can find these [here](https://visualstudio.microsoft.com/downloads/)
 
-Go to Visual Studio Installer and Download the Necessary Workloads Stated Below:
+Go to Visual Studio Installer and Download the Necessary Workloads Stated Below
 
 Under Desktop & Mobile Section
 - Universal Windows Platform Development
@@ -31,6 +31,16 @@ Under Gaming
 - Game Development with Unity
 - Game development with C++ 
 ![image](https://user-images.githubusercontent.com/25051402/201804092-12f338fd-ff86-4305-af80-c1b1605f9223.png)
+
+### Install the MRTK Toolkit
+
+[MRTK-Unity](https://learn.microsoft.com/en-us/windows/mixed-reality/mrtk-unity/mrtk2/?view=mrtkunity-2022-05) is a Microsoft-driven project that provides a set of components and features, used to accelerate cross-platform MR app development in Unity.
+
+You can download the Feature Tool [here](https://www.microsoft.com/en-us/download/details.aspx?id=102778)
+
+---
+
+## Setting up the Working Environment
 
 ---
 
