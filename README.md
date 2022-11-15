@@ -19,6 +19,8 @@ Modules needed for Unity 2022.3.33f1 to Develop in Hololens 2
 ### Choose the Visual Studio you prefer to use
 Tested with VS Community 2022 and VS Commmunity 2019. You can find these [here](https://visualstudio.microsoft.com/downloads/)
 
+Go to Visual Studio Installer and Download the Necessary Workloads Stated Below:
+
 Under Desktop & Mobile Section
 - Universal Windows Platform Development
 - .NET Desktop Development
