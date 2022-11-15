@@ -2,9 +2,9 @@
 
 ---
 
-## Installation of Necessary Softwares/Toolkits/Packages/Dependencies
+## Installation of Necessary Softwares/Toolkits/Packages/Dependencies/SDK
 
-### Installation of Asset
+### Getting the required Assets
 
 Git Clone / Pull or Download as Zip in the following GitHub Repository
 
@@ -100,6 +100,16 @@ Ensure you have NuGet in Unity
 
 If not, 
 Install the NuGet for Unity by Assets -> Import Package -> Custom Package -> Select [NuGetForUnity](https://github.com/GlitchEnzo/NuGetForUnity/releases/download/v3.0.5/NugetForUnity.3.0.5.unitypackage) you've previously installed 
+
+Go to NuGet -> Manage Nuget Packages -> *Installed* Tab
+
+Make sure the following is there if not navigate back to the *Online* Tab and install it
+- Microsoft.MixedReality.QR
+- Microsoft.Rest.ClientRuntime
+- Microsoft.VCRTForwarders.140
+- Microsoft.Windows.MixedReality.DotNetWINRT
+- Newtonsoft.Json
+- OpenCV
 
 ### Linking up Visual Studio and Unity for Auto Complete statements when coding / developing in Visual Studio
 
