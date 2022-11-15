@@ -40,10 +40,17 @@ Under Gaming
 [MRTK-Unity](https://learn.microsoft.com/en-us/windows/mixed-reality/mrtk-unity/mrtk2/?view=mrtkunity-2022-05) is a Microsoft-driven project that provides a set of components and features, used to accelerate cross-platform MR app development in Unity.
 
 You can download the Feature Tool [here](https://www.microsoft.com/en-us/download/details.aspx?id=102778)
+To know about the MRTK Toolkit you can read it up [here](https://learn.microsoft.com/en-us/windows/mixed-reality/develop/unity/welcome-to-mr-feature-tool)
+
+### Unity 3rd Party Packages
+
+- [NuGetForUnity](https://github.com/GlitchEnzo/NuGetForUnity/releases/download/v3.0.5/NugetForUnity.3.0.5.unitypackage) 
+- 
 
 ---
 
 ## Setting up the Working Environment
+
 
 ---
 
