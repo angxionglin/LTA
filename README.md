@@ -4,6 +4,10 @@
 
 ## Installation of Necessary Softwares/Toolkits/Packages/Dependencies
 
+### Installation of Asset
+
+Git Clone / Pull or Download as Zip in the following GitHub Repo
+
 ### Installation of Unity Hub
 Firstly, you must have the Unity Hub Installed which you can access it [here](https://public-cdn.cloud.unity3d.com/hub/prod/UnityHubSetup.exe) if not [here](https://unity3d.com/get-unity/download)
 
@@ -47,14 +51,16 @@ To know about the MRTK Toolkit you can read it up [here](https://learn.microsoft
 
 - [NuGetForUnity](https://github.com/GlitchEnzo/NuGetForUnity/releases/download/v3.0.5/NugetForUnity.3.0.5.unitypackage) 
 
-### Installation of Asset
-
-
-
 ---
 
 ## Setting up the Working Environment
 
+### Mixed Reality Feature Tool
+1) Open up the Mixed Reality Feature Tool
+![image](https://user-images.githubusercontent.com/25051402/201810112-bb0d181c-d9a8-4479-b645-c73509794277.png)
+2) Select the Github Clone / Pull File
+![image](https://user-images.githubusercontent.com/25051402/201810046-ff299027-b204-4fec-9d6e-f1d2adf9b390.png)
+3) 
 
 
 ### Installing more Packages in Unity
