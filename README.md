@@ -89,8 +89,15 @@ To know about the MRTK Toolkit you can read it up [here](https://learn.microsoft
 
 5) Follow the remaining steps to install the necessary packages
 
+### Installing and Importing Packages in Unity
 
-### Installing more Packages in Unity
+Ensure you have NuGet in Unity
+![image](https://user-images.githubusercontent.com/25051402/201816239-0c8e1cbd-954e-4f4a-a26a-61c2901c4c41.png)
+
+If not, 
+Install the NuGet for Unity by Assets -> Import Package -> Custom Package -> Select [NuGetForUnity](https://github.com/GlitchEnzo/NuGetForUnity/releases/download/v3.0.5/NugetForUnity.3.0.5.unitypackage) you've previously installed 
+
+
 
 ### Linking up Visual Studio and Unity for Auto Complete statements when coding / developing in Visual Studio
 
@@ -111,6 +118,8 @@ Check the following
 
 ![image](https://user-images.githubusercontent.com/25051402/201814555-b883820b-f0c9-43b9-8ba7-52a8ad66a7fb.png)
 ![image](https://user-images.githubusercontent.com/25051402/201815209-163efeb2-6fe6-4a0c-a076-237235f14db8.png)
+
+### Setting up the Build Settings in Unity
 
 --- 
 
