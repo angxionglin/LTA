@@ -15,7 +15,7 @@ Install the Window SDK (Version 10.0.19041.0) needed for Hololens 2. Click [here
 Unity Hub is required to open or run any of the Unity Projects. You can install them by clicking [here](https://public-cdn.cloud.unity3d.com/hub/prod/UnityHubSetup.exe) if not visit the official website [here](https://unity3d.com/get-unity/download)
 
 ### Choose your appropriate Unity Version that you need.
-For this case we're using *2022.3.33f1* where you can find all the archive [here](https://unity3d.com/get-unity/download/archive)
+For this case we're using **2022.3.33f1** where you can find all the archive [here](https://unity3d.com/get-unity/download/archive)
 
 Modules needed for Unity 2022.3.33f1 to Develop in Hololens 2
 - Universal Windows Platform Build Support
@@ -67,12 +67,12 @@ To know about the MRTK Toolkit you can read it up [here](https://learn.microsoft
 ![image](https://user-images.githubusercontent.com/25051402/201810046-ff299027-b204-4fec-9d6e-f1d2adf9b390.png)
 3) Discover Feature and Ensure the Following is Installed
 
- *Azure Mixed Reality Services*
+ **Azure Mixed Reality Services**
  - Microsoft Azure Object Anchors        (Version 0.22.0)
  - Azure Spatial Anchors SDK Core        (Version 2.13.0)
  - Azure Spatial Anchors SDK for Windows (Version 2.13.0)
 
- *Mixed Reality Toolkit*
+ **Mixed Reality Toolkit**
  - Mixed Reality Toolkit Examples        (Version 2.8.0)
  - Mixed Reality Toolkit Extensions      (Version 2.8.0)
  - Mixed Reality Toolkit Foundation      (Version 2.8.0)
@@ -80,14 +80,14 @@ To know about the MRTK Toolkit you can read it up [here](https://learn.microsoft
  - Mixed Reality Toolkit Test Utilities  (Version 2.8.0)
  - Mixed Reality Toolkit Tools           (Version 2.8.0)
 
- *MRTK3*
+ **MRTK3**
  - MRTK Graphics Tools                   (Version 0.4.0)
 
- *Platform Support*
+ **Platform Support**
  - Mixed Reality OpenXR Plugin           (Version 1.4.0)
  - Mixed Reality Scene Understanding     (Version 0.6.0)
 
- *Spatial Audio*
+ **Spatial Audio**
  - Microsoft Spatializer                 (Version 1.0.246)
 
 ![image](https://user-images.githubusercontent.com/25051402/201811577-f0673574-dc0e-48be-ad18-c9d46d15b771.png)
@@ -103,9 +103,9 @@ Ensure you have NuGet in Unity
 If not, 
 Install the NuGet for Unity by Assets -> Import Package -> Custom Package -> Select [NuGetForUnity](https://github.com/GlitchEnzo/NuGetForUnity/releases/download/v3.0.5/NugetForUnity.3.0.5.unitypackage) you've previously installed 
 
-Go to NuGet -> Manage Nuget Packages -> *Installed* Tab
+Go to NuGet -> Manage Nuget Packages -> **Installed** Tab
 
-Make sure the following is there if not navigate back to the *Online* Tab and install it
+Make sure the following is there if not navigate back to the **Online** Tab and install it
 - Microsoft.MixedReality.QR
 - Microsoft.Rest.ClientRuntime
 - Microsoft.VCRTForwarders.140
@@ -144,7 +144,7 @@ Follow the Configuration
 - Minimum Platform Version: Choose the lowest, for this case is 10.0.10240.0
 - Visual Studio Version:    Your Preference, for this case is Latest Installed
 - Build and Run on:         USB Device
-- Build Configuration:      *Release*
+- Build Configuration:      **Release**
 
 Check Development Build
 
