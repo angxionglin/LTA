@@ -39,7 +39,7 @@ Under Gaming
 - Game development with C++ 
 ![image](https://user-images.githubusercontent.com/25051402/201804092-12f338fd-ff86-4305-af80-c1b1605f9223.png)
 
-### Install the MRTK Toolkit
+### Install MRTK
 
 [MRTK-Unity](https://learn.microsoft.com/en-us/windows/mixed-reality/mrtk-unity/mrtk2/?view=mrtkunity-2022-05) is a Microsoft-driven project that provides a set of components and features, used to accelerate cross-platform MR app development in Unity.
 
@@ -60,7 +60,33 @@ To know about the MRTK Toolkit you can read it up [here](https://learn.microsoft
 ![image](https://user-images.githubusercontent.com/25051402/201810112-bb0d181c-d9a8-4479-b645-c73509794277.png)
 2) Select the Github Clone / Pull File
 ![image](https://user-images.githubusercontent.com/25051402/201810046-ff299027-b204-4fec-9d6e-f1d2adf9b390.png)
-3) 
+3) Discover Feature and Ensure the Following is Installed
+
+*Azure Mixed Reality Services*
+- Microsoft Azure Object Anchors        (Version 0.22.0)
+- Azure Spatial Anchors SDK Core        (Version 2.13.0)
+- Azure Spatial Anchors SDK for Windows (Version 2.13.0)
+
+*Mixed Reality Toolkit*
+- Mixed Reality Toolkit Examples        (Version 2.8.0)
+- Mixed Reality Toolkit Extensions      (Version 2.8.0)
+- Mixed Reality Toolkit Foundation      (Version 2.8.0)
+- Mixed Reality Toolkit Standard Assets (Version 2.8.0)
+- Mixed Reality Toolkit Test Utilities  (Version 2.8.0)
+- Mixed Reality Toolkit Tools           (Version 2.8.0)
+
+*MRTK3*
+- MRTK Graphics Tools                   (Version 0.4.0)
+
+*Platform Support*
+- Mixed Reality OpenXR Plugin           (Version 1.4.0)
+- Mixed Reality Scene Understanding     (Version 0.6.0)
+
+*Spatial Audio*
+- Microsoft Spatializer                 (Version 1.0.246)
+
+5) 
+6) 
 
 
 ### Installing more Packages in Unity
