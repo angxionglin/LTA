@@ -62,31 +62,32 @@ To know about the MRTK Toolkit you can read it up [here](https://learn.microsoft
 ![image](https://user-images.githubusercontent.com/25051402/201810046-ff299027-b204-4fec-9d6e-f1d2adf9b390.png)
 3) Discover Feature and Ensure the Following is Installed
 
-  *Azure Mixed Reality Services*
-  - Microsoft Azure Object Anchors        (Version 0.22.0)
-  - Azure Spatial Anchors SDK Core        (Version 2.13.0)
-  - Azure Spatial Anchors SDK for Windows (Version 2.13.0)
+ *Azure Mixed Reality Services*
+ - Microsoft Azure Object Anchors        (Version 0.22.0)
+ - Azure Spatial Anchors SDK Core        (Version 2.13.0)
+ - Azure Spatial Anchors SDK for Windows (Version 2.13.0)
 
-  *Mixed Reality Toolkit*
-  - Mixed Reality Toolkit Examples        (Version 2.8.0)
-  - Mixed Reality Toolkit Extensions      (Version 2.8.0)
-  - Mixed Reality Toolkit Foundation      (Version 2.8.0)
-  - Mixed Reality Toolkit Standard Assets (Version 2.8.0)
-  - Mixed Reality Toolkit Test Utilities  (Version 2.8.0)
-  - Mixed Reality Toolkit Tools           (Version 2.8.0)
+ *Mixed Reality Toolkit*
+ - Mixed Reality Toolkit Examples        (Version 2.8.0)
+ - Mixed Reality Toolkit Extensions      (Version 2.8.0)
+ - Mixed Reality Toolkit Foundation      (Version 2.8.0)
+ - Mixed Reality Toolkit Standard Assets (Version 2.8.0)
+ - Mixed Reality Toolkit Test Utilities  (Version 2.8.0)
+ - Mixed Reality Toolkit Tools           (Version 2.8.0)
 
-  *MRTK3*
-  - MRTK Graphics Tools                   (Version 0.4.0)
+ *MRTK3*
+ - MRTK Graphics Tools                   (Version 0.4.0)
 
-  *Platform Support*
-  - Mixed Reality OpenXR Plugin           (Version 1.4.0)
-  - Mixed Reality Scene Understanding     (Version 0.6.0)
+ *Platform Support*
+ - Mixed Reality OpenXR Plugin           (Version 1.4.0)
+ - Mixed Reality Scene Understanding     (Version 0.6.0)
 
-  *Spatial Audio*
-  - Microsoft Spatializer                 (Version 1.0.246)
+ *Spatial Audio*
+ - Microsoft Spatializer                 (Version 1.0.246)
 
-5) 
-6) 
+![image](https://user-images.githubusercontent.com/25051402/201811577-f0673574-dc0e-48be-ad18-c9d46d15b771.png)
+
+5) Follow the remaining steps to install the necessary packages
 
 
 ### Installing more Packages in Unity
