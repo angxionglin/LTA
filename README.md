@@ -100,8 +100,14 @@ Select External Script Editor as the Visual Studio Version you prefer
 
 Under the 'Generate .csproj files for' 
 Check the following
-- test
-- test
+- Embedded packages
+- Local packages
+- Registry packages
+- Git packages
+- Built-in packages
+- Local tarball
+- Packages from unknown source
+- Player projects
 
 ![image](https://user-images.githubusercontent.com/25051402/201814555-b883820b-f0c9-43b9-8ba7-52a8ad66a7fb.png)
 
