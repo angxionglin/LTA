@@ -1,4 +1,4 @@
-# This is for the Hololens 2
+# This is for the Hololens 2 (HARP)
 
 ---
 
@@ -28,8 +28,7 @@ Under Desktop & Mobile Section
 Under Gaming
 - Game Development with Unity
 - Game development with C++ 
-![image](https://user-images.githubusercontent.com/25051402/201803794-efa2fc85-9327-4c55-92b7-2c1c78e6ecde.png)
-
+![image](https://user-images.githubusercontent.com/25051402/201804092-12f338fd-ff86-4305-af80-c1b1605f9223.png)
 
 ---
 
