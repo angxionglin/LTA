@@ -6,7 +6,10 @@
 
 ### Installation of Asset
 
-Git Clone / Pull or Download as Zip in the following GitHub Repo
+Git Clone / Pull or Download as Zip in the following GitHub Repository
+
+## Installation of Window SDK
+Install the Window SDK (Version 10.0.19041.0) needed for Hololens 2. Click [here](https://go.microsoft.com/fwlink/?linkid=2120843) to download if not find the references [here](https://developer.microsoft.com/en-us/windows/downloads/sdk-archive/)
 
 ### Installation of Unity Hub
 Firstly, you must have the Unity Hub Installed which you can access it [here](https://public-cdn.cloud.unity3d.com/hub/prod/UnityHubSetup.exe) if not [here](https://unity3d.com/get-unity/download)
