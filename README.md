@@ -49,6 +49,20 @@
 3) Grid / Box Layout on Object Detection
 4) Grid / Box Layout on Face Recognitiion
 5) Source for other multiplayer option
+6) Shared Experience with VR
+- Able to see the same model and edit it together with AR/VR
+7) Combine BIM Model with Reality 
+- Able to see the 3D model laying together with the real life object
+8) Dijkstra Algorithm for generating shortest path
+- Calculating the shortest path to get to the destination
+9) Expanding anchor to location that is out-of-sight
+- Having anchors all around the location
+10) Localize user location
+- Detect the user’s current location
+11) Improve UI
+- Have a user friendly UI that the user understands how to use easily
+12) Linkage with Workplace-On-The-Move database
+- Real time updates with the data from the app
 
 ### Android
 
@@ -63,6 +77,14 @@
 3) Deploy on Appstore
 
 ### Mirage Solo
+1) Collaborate with Workplace-On-The-Move
+- User are able to book physical or virtual DLab room
+3) Interactive panel
+- Able to access MSTeams to attend meetings and browse the internet
+4) Communication through audio between different devices
+- Users who are close to one another can hear each other in the LTAVerse
+5) Expand virtual world into LTA office
+- Expand virtual world into the LTA compound so user can walk around virtually at LTA
 
 ---
 
