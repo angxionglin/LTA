@@ -74,6 +74,13 @@ Ensure you have NuGet in Unity
 If not, 
 Install the NuGet for Unity by Assets -> Import Package -> Custom Package -> Select [NuGetForUnity](https://github.com/GlitchEnzo/NuGetForUnity/releases/download/v3.0.5/NugetForUnity.3.0.5.unitypackage) you've previously installed 
 
+### Change the SDK to Android SDK
+
+Go to Edit -> Preferences -> External Tools -> Browse -> 'C:\Users\USER\AppData\Local\Android\Sdk'
+
+![image](https://user-images.githubusercontent.com/25051402/202065020-bc542fd6-beb6-46d1-b527-f5d01c40fa38.png)
+![image](https://user-images.githubusercontent.com/25051402/202079818-b1c320a2-0913-4121-8cc2-700a18a8f0c0.png)
+
 ### Linking up Visual Studio and Unity for Auto Complete statements when coding / developing in Visual Studio
 
 Go to Edit -> Preferences -> External Tools
