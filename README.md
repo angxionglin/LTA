@@ -3,8 +3,8 @@
 ## Table of Contents
 - Hololens 2
 - Mirage Solo
-- Android
-- IOS
+- Mobile Android
+- Mobile IOS
 - R&T Website
 
 ---
@@ -26,13 +26,13 @@
 - Check Room Status
 
 
-### Anddroid 
+### Mobile Anddroid 
 
 1) LTA-Verse (Virtual Reality)
 - Collaboration
 - Check Room Status
 
-### Iphone
+### Mobile IOS
 
 1) LTA-Verse (Virtual Reality)
 - Collboration
@@ -64,13 +64,13 @@
 12) Linkage with Workplace-On-The-Move database
 - Real time updates with the data from the app
 
-### Android
+### Mobile Android
 
 1) Improvemnet Movement
 2) Able to enter your unique username for your character
 3) Deploy on Playstore
 
-### Iphone
+### Mobile IOS
 
 1) Improve Movement and Rotation 
 2) Able to enter your unique username for your character
@@ -99,11 +99,11 @@
 5) Spatial Anchor is Static instead of Dynamic
 6) Photon Voice 2 needed to pay for Hololens 2
 
-### Android
+### Mobile Android
 
 1) Movement unable to control (Probably due ot 3D Model too small)
 
-### Iphone
+### Mobile IOS
 
 1) Movement and Rotation different from Android even though its the same project
 
