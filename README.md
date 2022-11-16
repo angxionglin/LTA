@@ -13,27 +13,40 @@
 
 ### Hololens 2
 
+
 1) Dynamic 365
+
 2) Document Viewer
+
 3) QR Scanner
+
 4) Checklist
+
 5) Face Recognition
+
 6) Object Detection
+
 7) Measure
+
 8) Indoor Navigation (Work in Progress)
+
 9) LTA-Verse (Work in Progress) (Augmented Reality)
+
 - Collaboration (No Voice)
 - Check Room Status
+
 
 ### Anddroid 
 
 1) LTA-Verse (Virtual Reality)
+
 - Collaboration
 - Check Room Status
 
 ### Iphone
 
 1) LTA-Verse (Virtual Reality)
+
 - Collboration
 - Check Room Status
 
