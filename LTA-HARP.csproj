@@ -221,15 +221,12 @@
     <None Include="Assets\MixedRealityToolkit.Generated\MRTK\Shaders\InstancedColored.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap.shader" />
     <None Include="Assets\Photon\PhotonVoice\PhotonVoiceLibs\WSA\x86\opus_egpv.dll" />
-    <None Include="Assets\Firebase\Plugins\x86_64\FirebaseCppApp-9_6_0.dll" />
     <None Include="Assets\Packages\Microsoft.MixedReality.QR.0.5.3019\lib\unity\net46\Microsoft.MixedReality.QR.DotNet.dll" />
     <None Include="Assets\MixedRealityToolkit.Generated\MRTK\Shaders\ChannelPacker.shader" />
     <None Include="Assets\Packages\Microsoft.MixedReality.QR.0.5.3019\Unity\x64\MonoSupport.dll" />
-    <None Include="Assets\Firebase\Plugins\x86_64\FirebaseCppStorage.dll" />
     <None Include="Assets\Photon\PhotonVoice\PhotonVoiceLibs\x86\AudioIn.dll" />
     <None Include="Assets\MRTK.Tutorials.MultiUserCapabilities\Version.txt" />
     <None Include="Assets\Photon\PhotonVoice\changes-voice.txt" />
-    <None Include="Assets\Firebase\Plugins\Firebase.App.dll" />
     <None Include="Assets\Parse\Plugins\Unity.Tasks.dll" />
     <None Include="Assets\Photon\PhotonVoice\Demos\DemoVoicePun\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMPro_Mobile.cginc" />
@@ -244,22 +241,18 @@
     <None Include="Assets\Photon\PhotonVoice\PhotonVoiceLibs\WSA\ARM\opus_egpv.dll" />
     <None Include="Assets\LTA-HARP.asmdef" />
     <None Include="Assets\QRScanner\QRCodeStuff\Transparent.shader" />
-    <None Include="Assets\Firebase\Plugins\x86_64\FirebaseCppAuth.dll" />
     <None Include="Assets\Packages\Newtonsoft.Json.13.0.1\lib\net45\Newtonsoft.Json.xml" />
     <None Include="Assets\Photon\PhotonVoice\Demos\DemoVoicePun\Audio\Pop-J_Fairba-8421_hifi.mp3.txt" />
     <None Include="Assets\Packages\Microsoft.VCRTForwarders.140.1.0.7\Unity\x64\vcruntime140_1_app.dll" />
     <None Include="Assets\Photon\PhotonVoice\Demos\DemoVoicePun\Fonts\Orbitron Black.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Surface-Mobile.shader" />
-    <None Include="Assets\Firebase\Plugins\Firebase.TaskExtension.dll" />
     <None Include="Assets\Packages\Microsoft.VCRTForwarders.140.1.0.7\Unity\x64\msvcp140_1_app.dll" />
     <None Include="Assets\MRTK.Tutorials.AzureSpatialAnchors\Version.txt" />
     <None Include="Assets\Packages\Microsoft.VCRTForwarders.140.1.0.7\Unity\x64\concrt140_app.dll" />
     <None Include="Assets\Packages\Microsoft.MixedReality.QR.0.5.3019\lib\unity\netstandard2.0\Microsoft.MixedReality.QR.DotNet.dll" />
-    <None Include="Assets\Firebase\m2repository\com\google\firebase\firebase-app-unity\maven-metadata.xml" />
     <None Include="Assets\ExternalDependencyManager\Editor\1.2.172\Google.PackageManagerResolver.dll" />
     <None Include="Assets\Plugins\Android\AndroidManifest.xml" />
     <None Include="Assets\Photon\PhotonVoice\PhotonVoiceLibs\x86_64\opus_egpv.dll" />
-    <None Include="Assets\Firebase\Plugins\Firebase.Auth.dll" />
     <None Include="Assets\Packages\Microsoft.MixedReality.QR.0.5.3019\Unity\x86\Microsoft.MixedReality.QR.dll" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Surface.shader" />
     <None Include="Assets\TextMesh Pro\Sprites\EmojiOne Attribution.txt" />
@@ -272,10 +265,8 @@
     <None Include="Assets\Photon\PhotonVoice\Demos\DemoVoiceUI\RobotoFont\Apache License.txt" />
     <None Include="Assets\TextMesh Pro\Resources\LineBreaking Leading Characters.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMPro_Properties.cginc" />
-    <None Include="Assets\Firebase\m2repository\com\google\firebase\firebase-auth-unity\maven-metadata.xml" />
     <None Include="Assets\MRTK.Tutorials.GettingStarted\Version.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMPro_Surface.cginc" />
-    <None Include="Assets\Firebase\Plugins\iOS\Firebase.Auth.dll" />
     <None Include="Assets\Photon\PhotonUnityNetworking\readme.txt" />
     <None Include="Assets\MixedRealityToolkit.Generated\link.xml" />
     <None Include="Assets\Photon\PhotonChat\Demos\DemoChat\Files\eurof_tt.txt" />
@@ -286,15 +277,10 @@
     <None Include="Assets\Photon\PhotonVoice\PhotonVoiceLibs\WSA\ARM\Photon.Voice.UWP.MediaExtensions.dll" />
     <None Include="Assets\Photon\PhotonLibs\Photon3Unity3D.dll" />
     <None Include="Assets\Photon\PhotonVoice\PhotonVoiceLibs\WSA\x64\Photon.Voice.UWP.MediaExtensions.dll" />
-    <None Include="Assets\Firebase\Editor\FirebaseStorage_version-9.6.0_manifest.txt" />
     <None Include="Assets\TextMesh Pro\Resources\LineBreaking Following Characters.txt" />
-    <None Include="Assets\Firebase\Editor\StorageDependencies.xml" />
-    <None Include="Assets\Firebase\Editor\FirebaseAuth_version-9.6.0_manifest.txt" />
-    <None Include="Assets\Firebase\Editor\AuthDependencies.xml" />
     <None Include="Assets\Photon\PhotonLibs\Metro\Photon3Unity3D.dll" />
     <None Include="Assets\Packages\Microsoft.MixedReality.QR.0.5.3019\Unity\arm\Microsoft.MixedReality.QR.dll" />
     <None Include="Assets\MixedRealityToolkit.Generated\MRTK\Shaders\MixedRealityStandard.shader" />
-    <None Include="Assets\Firebase\Editor\AppDependencies.xml" />
     <None Include="Assets\Packages\Microsoft.Windows.MixedReality.DotNetWinRT.0.5.1049\LICENSE.txt" />
     <None Include="Assets\MixedRealityToolkit.Generated\MRTK\Shaders\MixedRealityTextMeshPro.shader" />
     <None Include="Assets\MixedRealityToolkit.Generated\MRTK\Shaders\MRTK_Wireframe.shader" />
@@ -305,26 +291,19 @@
     <None Include="Assets\Packages\Microsoft.Rest.ClientRuntime.2.3.20\lib\net461\Microsoft.Rest.ClientRuntime.xml" />
     <None Include="Assets\Photon\PhotonVoice\PhotonVoiceLibs\x86\webrtc-audio.dll" />
     <None Include="Assets\Parse\Plugins\dotNet45\Unity.Compat.dll" />
-    <None Include="Assets\Firebase\Plugins\Firebase.Platform.dll" />
     <None Include="Assets\NuGet\Editor\NugetForUnity.dll" />
     <None Include="Assets\Photon\PhotonLibs\Photon3Unity3D.xml" />
     <None Include="Assets\Parse\Plugins\dotNet45\Unity.Tasks.dll" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF Overlay.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap-Mobile.shader" />
-    <None Include="Assets\Firebase\Plugins\Firebase.Storage.dll" />
-    <None Include="Assets\Firebase\Plugins\Google.MiniJson.dll" />
     <None Include="Assets\TextMesh Pro\Fonts\LiberationSans - OFL.txt" />
     <None Include="Assets\MixedRealityToolkit.Generated\MRTK\Shaders\DepthBufferPostProcess.shader" />
     <None Include="Assets\Packages\Microsoft.VCRTForwarders.140.1.0.7\Unity\x64\vcamp140_app.dll" />
     <None Include="Assets\Photon\PhotonUnityNetworking\link.xml" />
-    <None Include="Assets\Firebase\Plugins\iOS\Firebase.Storage.dll" />
     <None Include="Assets\Photon\PhotonVoice\PhotonVoiceLibs\x86_64\AudioIn.dll" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile.shader" />
     <None Include="Assets\Photon\PhotonVoice\PhotonVoiceLibs\WSA\x64\opus_egpv.dll" />
     <None Include="Assets\Photon\PhotonVoice\PhotonVoiceLibs\WSA\x86\Photon.Voice.UWP.MediaExtensions.dll" />
-    <None Include="Assets\Firebase\Plugins\iOS\Firebase.App.dll" />
-    <None Include="Assets\Firebase\Editor\Firebase.Editor.dll" />
-    <None Include="Assets\Firebase\m2repository\com\google\firebase\firebase-storage-unity\maven-metadata.xml" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_Sprite.shader" />
     <None Include="Assets\MixedRealityToolkit.Generated\MRTK\Shaders\MixedRealityShaderUtils.cginc" />
     <None Include="Assets\Photon\PhotonVoice\PhotonVoiceLibs\WebRTC-LICENSE.txt" />
@@ -567,17 +546,11 @@
     <Reference Include="websocket-sharp">
       <HintPath>Assets\Photon\PhotonLibs\WebSocket\websocket-sharp.dll</HintPath>
     </Reference>
-    <Reference Include="Firebase.TaskExtension">
-      <HintPath>Assets\Firebase\Plugins\Firebase.TaskExtension.dll</HintPath>
-    </Reference>
     <Reference Include="Google.VersionHandler">
       <HintPath>Assets\ExternalDependencyManager\Editor\Google.VersionHandler.dll</HintPath>
     </Reference>
     <Reference Include="Google.PackageManagerResolver">
       <HintPath>Assets\ExternalDependencyManager\Editor\1.2.172\Google.PackageManagerResolver.dll</HintPath>
-    </Reference>
-    <Reference Include="Firebase.Storage">
-      <HintPath>Assets\Firebase\Plugins\Firebase.Storage.dll</HintPath>
     </Reference>
     <Reference Include="NugetForUnity">
       <HintPath>Assets\NuGet\Editor\NugetForUnity.dll</HintPath>
@@ -585,20 +558,11 @@
     <Reference Include="Microsoft.MixedReality.QR.DotNet">
       <HintPath>Assets\Packages\Microsoft.MixedReality.QR.0.5.3019\lib\unity\netstandard2.0\Microsoft.MixedReality.QR.DotNet.dll</HintPath>
     </Reference>
-    <Reference Include="Google.MiniJson">
-      <HintPath>Assets\Firebase\Plugins\Google.MiniJson.dll</HintPath>
-    </Reference>
     <Reference Include="Google.JarResolver">
       <HintPath>Assets\ExternalDependencyManager\Editor\1.2.172\Google.JarResolver.dll</HintPath>
     </Reference>
-    <Reference Include="Firebase.App">
-      <HintPath>Assets\Firebase\Plugins\Firebase.App.dll</HintPath>
-    </Reference>
     <Reference Include="Newtonsoft.Json">
       <HintPath>Assets\Plugins\Newtonsoft\Newtonsoft.Json.dll</HintPath>
-    </Reference>
-    <Reference Include="Firebase.Editor">
-      <HintPath>Assets\Firebase\Editor\Firebase.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Tasks">
       <HintPath>Assets\Parse\Plugins\dotNet45\Unity.Tasks.dll</HintPath>
@@ -606,14 +570,8 @@
     <Reference Include="Google.VersionHandlerImpl">
       <HintPath>Assets\ExternalDependencyManager\Editor\1.2.172\Google.VersionHandlerImpl.dll</HintPath>
     </Reference>
-    <Reference Include="Firebase.Platform">
-      <HintPath>Assets\Firebase\Plugins\Firebase.Platform.dll</HintPath>
-    </Reference>
     <Reference Include="Unity.Compat">
       <HintPath>Assets\Parse\Plugins\dotNet45\Unity.Compat.dll</HintPath>
-    </Reference>
-    <Reference Include="Firebase.Auth">
-      <HintPath>Assets\Firebase\Plugins\Firebase.Auth.dll</HintPath>
     </Reference>
     <Reference Include="mscorlib">
       <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.33f1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\mscorlib.dll</HintPath>
