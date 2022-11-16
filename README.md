@@ -49,7 +49,17 @@ Under Gaming
 - [Photon Voice 2](https://assetstore.unity.com/packages/tools/audio/photon-voice-2-130518)
 
 ### Android Studio
-- 
+- Download Android Studio [here](https://developer.android.com/studio)
+
+### Android SDK
+1) Open Android Studio
+2) Go to Tools -> SDK Manager
+
+![image](https://user-images.githubusercontent.com/25051402/202071467-ac9666d3-f83b-4d68-9cb2-96ae5f0dd9c3.png)
+
+3) Go to Android SDK -> Android 8.0 
+
+![image](https://user-images.githubusercontent.com/25051402/202072451-e5a9d2d3-a310-4e81-9f89-46f654fcad8d.png)
 
 ---
 
