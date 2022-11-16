@@ -83,3 +83,14 @@ Select the Visual Studio Version you prefer for the External Script Editor
 ![image](https://user-images.githubusercontent.com/25051402/202065020-bc542fd6-beb6-46d1-b527-f5d01c40fa38.png)
 ![image](https://user-images.githubusercontent.com/25051402/202065233-5ecd4049-52c7-4e90-bf36-0f9feb9c22ab.png)
 
+### Import from Asset Store
+
+1) Window -> Asset Store
+
+![image](https://user-images.githubusercontent.com/25051402/202076296-d64e731a-6127-451b-9b89-9f729c283e1e.png)
+
+2) Enter the following Packages needed. Download and import them. If you've downloaded Navigate to 'My Assets'
+
+![image](https://user-images.githubusercontent.com/25051402/202076680-62570f29-a805-42df-93cb-89b3dc7e58d7.png)
+
+---
