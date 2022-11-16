@@ -63,6 +63,16 @@ To know about the MRTK Toolkit you can read it up [here](https://learn.microsoft
 
 ## Setting up the Working Environment
 
+### Importing from Asset Store
+1) Navigate to Window -> Package Manager
+
+![image](https://user-images.githubusercontent.com/25051402/202076991-a4a89df1-87ba-4923-a074-391a836b5b9c.png)
+
+2) Under the Packages, Select 'My Assets' -> Import / Reimport. For this instance is [PUN2](https://assetstore.unity.com/packages/tools/network/pun-2-free-119922) and [Photon Voice 2](https://assetstore.unity.com/packages/tools/audio/photon-voice-2-130518).
+(If you do not have the assets, go to [Unity Asset Store](https://assetstore.unity.com/) and add it into your asset)
+
+![image](https://user-images.githubusercontent.com/25051402/202077240-07a0d32d-91c3-4084-9060-75ff654c01d1.png)
+
 ### Mixed Reality Feature Tool
 1) Open up the Mixed Reality Feature Tool
 ![image](https://user-images.githubusercontent.com/25051402/201810112-bb0d181c-d9a8-4479-b645-c73509794277.png)
