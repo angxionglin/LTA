@@ -5,7 +5,6 @@
 ## Installation of Necessary Softwares/Toolkits/Packages/Dependencies/SDK
 
 ### Getting the required Assets
-
 Git Clone / Pull or Download as Zip in the following GitHub Repository
 
 ### Installation of Window SDK
@@ -15,9 +14,9 @@ Install the Window SDK (Version 10.0.19041.0) needed for Hololens 2. Click [here
 Unity Hub is required to open or run any of the Unity Projects. You can install them by clicking [here](https://public-cdn.cloud.unity3d.com/hub/prod/UnityHubSetup.exe) if not visit the official website [here](https://unity3d.com/get-unity/download)
 
 ### Choose your appropriate Unity Version that you need.
-For this case we're using **2022.3.33f1** where you can find all the archive [here](https://unity3d.com/get-unity/download/archive)
+For this case we're using **2020.3.33f1** where you can find all the archive [here](https://unity3d.com/get-unity/download/archive)
 
-Modules needed for Unity 2022.3.33f1 to Develop in Hololens 2
+Modules needed for Unity 2020.3.33f1 to Develop in Hololens 2
 - Universal Windows Platform Build Support
 - Windows Build Support
 - Visual Studio (VS Community 2022 / 2019)
