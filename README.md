@@ -18,6 +18,7 @@ Modules needed for Unity 2018.3.8f1 to Develop in Mirage Solo
 
 ![image](https://user-images.githubusercontent.com/25051402/202063367-e9673c44-4de1-471e-9ff7-cbba742d6bef.png)
 ![image](https://user-images.githubusercontent.com/25051402/202063434-b4a84e67-eb67-49ed-9a7d-622c8588ba40.png)
+![image](https://user-images.githubusercontent.com/25051402/202069544-22c610ac-2369-4651-b479-d9d7d111796b.png)
 
 ### Choose the Visual Studio you prefer to use
 Tested with VS Community 2022 and VS Commmunity 2019. You can find these [here](https://visualstudio.microsoft.com/downloads/)
