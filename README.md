@@ -79,11 +79,11 @@
 ### Mirage Solo
 1) Collaborate with Workplace-On-The-Move
 - User are able to book physical or virtual DLab room
-3) Interactive panel
+2) Interactive panel
 - Able to access MSTeams to attend meetings and browse the internet
-4) Communication through audio between different devices
+3) Communication through audio between different devices
 - Users who are close to one another can hear each other in the LTAVerse
-5) Expand virtual world into LTA office
+4) Expand virtual world into LTA office
 - Expand virtual world into the LTA compound so user can walk around virtually at LTA
 
 ---
