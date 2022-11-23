@@ -13,7 +13,7 @@
 
 ## Remote connection Setup
 
-### Setting up SSH (Click [here](https://phoenixnap.com/kb/enable-ssh-raspberry-pi) for the Reference)
+### Setting up SSH
 
 #### GUI Configuration Options
 
@@ -57,7 +57,7 @@
 
 #### Using Putty
 
-1) Download Putty from [here](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)
+1) Download [Putty](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)
 2) Open up Putty
 3) Enter the IP address of your device. Make sure SSH is selected, and port set to 22
 
