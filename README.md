@@ -9,7 +9,11 @@
 2) Find a HDMI to Microusb Display Connector to connect it onto the monitor
 3) Plug in a wired / wireless keyboard + mouse into the USB ports in the Raspberry Pi
 
-### Remote connection Setup
+---
+
+## Remote connection Setup
+
+### Setting up SSH (Click [here](https://phoenixnap.com/kb/enable-ssh-raspberry-pi) for the Reference)
 
 #### GUI Configuration Options
 
@@ -37,9 +41,27 @@
 
 ![image](https://user-images.githubusercontent.com/25051402/203455204-da0f3786-f441-4e57-aae3-d32d050fceff.png)
 
-4) Select **<Yes>** on the "Would you like the SSH Server to be enable?" prompt
+4) Select **Yes** on the "Would you like the SSH Server to be enable?" prompt
 5) Navigate down and select **Finish** to close the raspi-config
   
 ##### 2nd Way
 1) Open the terminal on your Raspberry Pi and run the tool by typing: **sudo systemctl enable ssh**
 2) Open the terminal on your Raspberry Pi and run the tool by typing: **sudo systemctl start ssh**
+
+
+### Establishing SSH Connection
+
+#### Using Terminal
+1) Open up terminal in Windows / Mac
+2) Enter **ssh pi@raspberrypi_ip_address** Eg ssh pi@192.168.1.1
+
+#### Using Putty
+
+1) Download Putty from [here](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)
+2) Open up Putty
+3) Enter the IP address of your device. Make sure SSH is selected, and port set to 22
+
+![image](https://user-images.githubusercontent.com/25051402/203456723-640e56d1-dfe9-471f-8ce7-3dceb21b777d.png)
+
+4) Click **Open** to start a new session
+5) Enter your Rpi's username and password
