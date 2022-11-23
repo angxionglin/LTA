@@ -53,7 +53,7 @@
 
 #### Using Terminal
 1) Open up terminal in Windows / Mac
-2) Enter **ssh pi@raspberrypi_ip_address** Eg ssh pi@192.168.1.1
+2) Enter **ssh pi@raspberrypi_ip_address** Eg. ssh pi@192.168.1.1
 
 #### Using Putty
 
