@@ -13,7 +13,25 @@
 
 #### GUI Configuration Options
 
-1) Click the **raspberry logo** at the top-left corner.
-2) Select **Preferences -> Raspberry Pi Configuration**.
+1) Click the **raspberry logo** at the top-left corner
+2) Select **Preferences -> Raspberry Pi Configuration**
 ![image](https://user-images.githubusercontent.com/25051402/203454900-f114cefd-20f4-4d9d-8dde-be7f17215e52.png)
-3)
+3) Navigate to the **Interfaces** tab in the configuration window
+4) **Enable SSH** in the second line
+![image](https://user-images.githubusercontent.com/25051402/203455015-c01160ba-9dac-4e90-965f-0e6a3c2683ab.png)
+5) Click **OK** to save the changes
+
+#### Terminal
+
+##### 1st Way
+1) Open the terminal on your Raspberry Pi and run the tool by typing: **sudo raspi-config**
+2) Use the arrow on your keyboard to select **Interfacing Options**
+![image](https://user-images.githubusercontent.com/25051402/203455152-a2cf0261-6cad-46fd-b8e4-6e98df916824.png)
+3) Select the **P2 SSH** option on the list
+![image](https://user-images.githubusercontent.com/25051402/203455204-da0f3786-f441-4e57-aae3-d32d050fceff.png)
+4) Select **<Yes>** on the "Would you like the SSH Server to be enable?" prompt
+5) Navigate down and select **Finish to close the raspi-config
+  
+##### 2nd Way
+1) Open the terminal on your Raspberry Pi and run the tool by typing: **sudo systemctl enable ssh**
+2) Open the terminal on your Raspberry Pi and run the tool by typing: **sudo systemctl start ssh**
