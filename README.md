@@ -6,7 +6,7 @@
 - Mobile Android
 - Mobile IOS
 - R&T Website
-
+- Raspberry Pi 4 Model B (SQL Server)
 ---
 
 ## Current Features
