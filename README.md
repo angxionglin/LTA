@@ -83,3 +83,12 @@
 9) Remove all the folder that contain python, some examples for removing python is: "**sudo rm python**" / "**sudo rm python3**"
 10) Hard link the python into the directory by typing: "**sudo ln -s /usr/local/bin/python3.7 python**" and "**sudo ln -s /usr/local/bin/python3.7 python3**"
 11) Check your python version by typing: "**python --version**" and "**python3 --version**"
+
+### Getting the required Assets
+Git Clone / Pull or Download as Zip in the following GitHub Repository
+
+### Installing the required packages
+Using the requirements.txt file you've downloaded, type "**pip install -r requirements.txt**"
+
+### Testing the Script
+Type "**python Server.py**" to run the script
