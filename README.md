@@ -65,3 +65,21 @@
 
 4) Click **Open** to start a new session
 5) Enter your Rpi's username and password
+
+---
+
+## Setting up the Environment
+
+### Installing Python
+
+1) Go to the [python website](https://www.python.org/ftp/python/) to see which version of python you want to install
+2) Open up terminal and type: **wget https://www.python.org/ftp/python/3.7.0/Python-3.7.0.tgz** change the python version to your required version
+3) Extract the file content by typing: **tar -zxvf Python-3.7.0.tgz**
+4) Go to the directory of your file by typing: **cd Python-3.7.0**
+5) Configure Python on the Rpi by typing: **./configure --enable-optimizations** ensure that you're in the Python folder
+6) After configuration, build the installation packages by typing: **sudo make altinstall**
+7) Go to /usr/bin by typing: **cd/usr/bin**
+8) List all the folder by typing: **ls**
+9) Remove all the folder that contain python, some examples for removing python is: **sudo rm python** / **sudo rm python3**
+10) Hard link the python into the directory by typing: **sudo ln -s /usr/local/bin/python3.7 python** and **sudo ln -s /usr/local/bin/python3.7 python3**
+11) Check your python version by typing: python --version
