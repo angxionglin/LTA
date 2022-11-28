@@ -278,11 +278,11 @@
     <Reference Include="Microsoft.MixedReality.QR.DotNet">
       <HintPath>Assets\Packages\Microsoft.MixedReality.QR.0.5.3019\lib\unity\net46\Microsoft.MixedReality.QR.DotNet.dll</HintPath>
     </Reference>
-    <Reference Include="Newtonsoft.Json">
-      <HintPath>Assets\Plugins\Newtonsoft\WSA\Newtonsoft.Json.dll</HintPath>
-    </Reference>
     <Reference Include="Photon.Voice.UWP">
       <HintPath>Assets\Photon\PhotonVoice\PhotonVoiceLibs\WSA\Photon.Voice.UWP.winmd</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>Assets\Plugins\Newtonsoft\WSA\Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Tasks">
       <HintPath>Assets\Parse\Plugins\dotNet45\Unity.Tasks.dll</HintPath>

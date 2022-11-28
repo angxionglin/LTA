@@ -58,7 +58,7 @@
   <ItemGroup>
     <Compile Include="Assets\Photon\PhotonRealtime\Demos\DemoLoadBalancing\ConnectAndJoinRandomLb.cs" />
     <Compile Include="Assets\QRScanner\QRCodeStuff\QRCode.cs" />
-    <Compile Include="Assets\TodoList\Scripts\ChecklistObject.cs" />
+    <Compile Include="Assets\CheckList\Scripts\ChecklistObject.cs" />
     <Compile Include="Assets\QRScanner\QRCodeStuff\QRCodesVisualizer.cs" />
     <Compile Include="Assets\Samples\Mixed Reality Toolkit Examples\2.8.0\Demos - HandTracking\Scripts\LeapCoreAssetsDetector.cs" />
     <Compile Include="Assets\FaceDetector\FaceTracking.cs" />
@@ -75,7 +75,7 @@
     <Compile Include="Assets\Shared\Scripts\SceneLoader.cs" />
     <Compile Include="Assets\Dynamic365\Scripts\LaunchUri.cs" />
     <Compile Include="Assets\Samples\Mixed Reality Toolkit Examples\2.8.0\Demos - Input\Scenes\DisablePointers\DisablePointersExample.cs" />
-    <Compile Include="Assets\SpatialAnchors\userName.cs" />
+    <Compile Include="Assets\LTAVerse\userName.cs" />
     <Compile Include="Assets\Samples\Mixed Reality Toolkit Examples\2.8.0\Demos - UX\Dwell\BaseDwellSample.cs" />
     <Compile Include="Assets\Samples\Mixed Reality Toolkit Examples\2.8.0\Demos - HandTracking\Scripts\TetheredPlacement.cs" />
     <Compile Include="Assets\Photon\PhotonVoice\Demos\DemoVoicePun\Scripts\CharacterInstantiation.cs" />
@@ -123,10 +123,10 @@
     <Compile Include="Assets\MRTK.Tutorials.MultiUserCapabilities\Scripts\PunExplodeViewController.cs" />
     <Compile Include="Assets\Photon\PhotonVoice\Demos\DemoVoicePun\Scripts\MouseLookHelper.cs" />
     <Compile Include="Assets\MRTK.Tutorials.AzureSpatialAnchors\Scripts\DebugWindow.cs" />
-    <Compile Include="Assets\TodoList\Scripts\Graph.cs" />
+    <Compile Include="Assets\CheckList\Scripts\Graph.cs" />
     <Compile Include="Assets\Samples\Mixed Reality Toolkit Examples\2.8.0\Demos - Input\Scenes\InputData\InputDataExampleGizmo.cs" />
     <Compile Include="Assets\Samples\Mixed Reality Toolkit Examples\2.8.0\Demos - UX\ProgressIndicator\Scripts\ProgressIndicatorDemo.cs" />
-    <Compile Include="Assets\TodoList\Scripts\Checklist.cs" />
+    <Compile Include="Assets\CheckList\Scripts\Checklist.cs" />
     <Compile Include="Assets\MRTK.Tutorials.GettingStarted\Scripts\PartAssemblyController.cs" />
     <Compile Include="Assets\Photon\PhotonVoice\Demos\DemoProximityVoiceChat\Scripts\ChangeColor.cs" />
     <Compile Include="Assets\MRTK.Tutorials.GettingStarted\Scripts\ExplodeViewController.cs" />
@@ -148,7 +148,7 @@
     <Compile Include="Assets\FaceDetector\FaceRequestor.cs" />
     <Compile Include="Assets\Photon\PhotonVoice\Demos\DemoVoicePun\Editor\CrossPlatformInput\CrossPlatformInputInitialize.cs" />
     <Compile Include="Assets\Photon\PhotonChat\Demos\DemoChat\NamePickGui.cs" />
-    <Compile Include="Assets\TodoList\Scripts\OpenCheckLists.cs" />
+    <Compile Include="Assets\CheckList\Scripts\OpenCheckLists.cs" />
     <Compile Include="Assets\Samples\Mixed Reality Toolkit Examples\2.8.0\Demos - HandTracking\Scripts\RotateWithPan.cs" />
     <Compile Include="Assets\MRTK.Tutorials.MultiUserCapabilities\Scripts\OwnershipHandler.cs" />
     <Compile Include="Assets\Photon\PhotonVoice\Demos\DemoVoiceUI\Scripts\MicrophoneDropdownFiller.cs" />
@@ -156,7 +156,7 @@
     <Compile Include="Assets\Samples\Mixed Reality Toolkit Examples\2.8.0\Demos - HandTracking\Scripts\LeapMotionOrientationDisplay.cs" />
     <Compile Include="Assets\MRTK.Tutorials.MultiUserCapabilities\Scripts\TableAnchor.cs" />
     <Compile Include="Assets\Photon\PhotonVoice\Demos\DemoVoiceUI\Scripts\CodecSettingsUI.cs" />
-    <Compile Include="Assets\TodoList\Scripts\TodoClose.cs" />
+    <Compile Include="Assets\CheckList\Scripts\TodoClose.cs" />
     <Compile Include="Assets\Samples\Mixed Reality Toolkit Examples\2.8.0\Demos - UX\BoundsControl\Scripts\BoundsControlRuntimeExample.cs" />
     <Compile Include="Assets\MixedRealityToolkit.Generated\Extensions\IApiKeyService.cs" />
     <Compile Include="Assets\Photon\PhotonVoice\Demos\DemoVoiceUI\Scripts\UiExtensions.cs" />
@@ -166,7 +166,7 @@
     <Compile Include="Assets\Samples\Mixed Reality Toolkit Examples\2.8.0\Demos - ScrollingObjectCollection\Scripts\ScrollablePagination.cs" />
     <Compile Include="Assets\Photon\PhotonVoice\Demos\DemoVoicePun\Standard Assets\CrossPlatformInput\Scripts\PlatformSpecific\StandaloneInput.cs" />
     <Compile Include="Assets\Photon\PhotonChat\Demos\DemoChat\IgnoreUiRaycastWhenInactive.cs" />
-    <Compile Include="Assets\TodoList\Scripts\ChecklistManager.cs" />
+    <Compile Include="Assets\CheckList\Scripts\ChecklistManager.cs" />
     <Compile Include="Assets\MRTK.Tutorials.MultiUserCapabilities\Scripts\PunPlacementHintsController.cs" />
     <Compile Include="Assets\Samples\Mixed Reality Toolkit Examples\2.8.0\Demos - Input\Scenes\PrimaryPointer\PrimaryPointerHandlerExample.cs" />
     <Compile Include="Assets\Samples\Mixed Reality Toolkit Examples\2.8.0\Demos - HandTracking\Scripts\LaunchUri.cs" />
@@ -199,6 +199,8 @@
     <Compile Include="Assets\Samples\Mixed Reality Toolkit Examples\2.8.0\Demos - UX\ProgressIndicator\Scripts\ProgressIndicatorDemoAsyncMethod.cs" />
     <Compile Include="Assets\Samples\Mixed Reality Toolkit Examples\2.8.0\Demos - HandTracking\Scripts\HandInteractionTouchRotate.cs" />
     <Compile Include="Assets\MRTK.Tutorials.GettingStarted\Scripts\DirectionalIndicatorController.cs" />
+    <Compile Include="Assets\_Heathen Engineering\Samples\UX Examples\Flat Icons [Free]\ToggleSetAnimatorBoolean.cs" />
+    <Compile Include="Assets\Indoor Navigation\NavMapping.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Packages\Microsoft.VCRTForwarders.140.1.0.7\Unity\x64\msvcp140_app.dll" />
@@ -281,6 +283,7 @@
     <None Include="Assets\Photon\PhotonLibs\Metro\Photon3Unity3D.dll" />
     <None Include="Assets\Packages\Microsoft.MixedReality.QR.0.5.3019\Unity\arm\Microsoft.MixedReality.QR.dll" />
     <None Include="Assets\MixedRealityToolkit.Generated\MRTK\Shaders\MixedRealityStandard.shader" />
+    <None Include="Assets\_Heathen Engineering\Documentation\UX\Flat Icons [Free]\Read Me.txt" />
     <None Include="Assets\Packages\Microsoft.Windows.MixedReality.DotNetWinRT.0.5.1049\LICENSE.txt" />
     <None Include="Assets\MixedRealityToolkit.Generated\MRTK\Shaders\MixedRealityTextMeshPro.shader" />
     <None Include="Assets\MixedRealityToolkit.Generated\MRTK\Shaders\MRTK_Wireframe.shader" />
@@ -540,6 +543,9 @@
     <Reference Include="SyntaxTree.VisualStudio.Unity.Bridge">
       <HintPath>C:\Program Files (x86)\Microsoft Visual Studio Tools for Unity\16.0\Editor\SyntaxTree.VisualStudio.Unity.Bridge.dll</HintPath>
     </Reference>
+    <Reference Include="Google.JarResolver">
+      <HintPath>Assets\ExternalDependencyManager\Editor\1.2.172\Google.JarResolver.dll</HintPath>
+    </Reference>
     <Reference Include="Photon3Unity3D">
       <HintPath>Assets\Photon\PhotonLibs\netstandard2.0\Photon3Unity3D.dll</HintPath>
     </Reference>
@@ -552,17 +558,14 @@
     <Reference Include="Google.PackageManagerResolver">
       <HintPath>Assets\ExternalDependencyManager\Editor\1.2.172\Google.PackageManagerResolver.dll</HintPath>
     </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>Assets\Plugins\Newtonsoft\Newtonsoft.Json.dll</HintPath>
+    </Reference>
     <Reference Include="NugetForUnity">
       <HintPath>Assets\NuGet\Editor\NugetForUnity.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.MixedReality.QR.DotNet">
       <HintPath>Assets\Packages\Microsoft.MixedReality.QR.0.5.3019\lib\unity\netstandard2.0\Microsoft.MixedReality.QR.DotNet.dll</HintPath>
-    </Reference>
-    <Reference Include="Google.JarResolver">
-      <HintPath>Assets\ExternalDependencyManager\Editor\1.2.172\Google.JarResolver.dll</HintPath>
-    </Reference>
-    <Reference Include="Newtonsoft.Json">
-      <HintPath>Assets\Plugins\Newtonsoft\Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Tasks">
       <HintPath>Assets\Parse\Plugins\dotNet45\Unity.Tasks.dll</HintPath>
@@ -1054,13 +1057,13 @@
       <Project>{DE5A13E0-80D6-EDA6-8545-9DFD772054D1}</Project>
       <Name>PhotonVoice.API</Name>
     </ProjectReference>
-    <ProjectReference Include="UnityEditor.UI.csproj">
-      <Project>{698B7C6C-F053-CBCA-2E20-1C4BE228DAA8}</Project>
-      <Name>UnityEditor.UI</Name>
-    </ProjectReference>
     <ProjectReference Include="UnityEngine.UI.csproj">
       <Project>{68ABBC08-6C8F-EC99-46FA-DC3AE0F88ED8}</Project>
       <Name>UnityEngine.UI</Name>
+    </ProjectReference>
+    <ProjectReference Include="UnityEditor.UI.csproj">
+      <Project>{698B7C6C-F053-CBCA-2E20-1C4BE228DAA8}</Project>
+      <Name>UnityEditor.UI</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

@@ -135,3 +135,24 @@ MonoBehaviour:
       id: 0
       description: Select
       axisConstraint: 2
+  - localizationKey: 
+    keyword: LTAVerse
+    keyCode: 0
+    action:
+      id: 0
+      description: Select
+      axisConstraint: 2
+  - localizationKey: 
+    keyword: Next
+    keyCode: 0
+    action:
+      id: 0
+      description: Select
+      axisConstraint: 2
+  - localizationKey: 
+    keyword: Indoor Navigation
+    keyCode: 0
+    action:
+      id: 0
+      description: Select
+      axisConstraint: 2
