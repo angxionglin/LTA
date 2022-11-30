@@ -92,3 +92,36 @@ Using the requirements.txt file you've downloaded, type "**pip install -r requir
 
 ### Testing the Script
 Type "**python Server.py**" to run the script
+
+## Setting up Crontab Jobs (Autorun Script Upon Boot/Reboot)
+
+### Creating Shell Script
+
+1) Go to the directory you want in terminal by using the command '**CD**'
+2) nano <script name>.sh Eg. nano launcher.sh
+3) Ensure the header got '**#!/bin/sh**'
+4) Type the commands you want to run upon booting up. Reccommended to go the default directory upon startup
+
+This is how the script should look like:
+
+#!/bin/sh
+cd /
+cd /home/pi
+sudo python3 Server.py
+
+5) Remember to change the mode of the read, write, execute level of the shell script by typing '**chmod 755 launcher.sh**'
+6) Now test the shell script by typing '**sh launcher.sh**'
+
+### Adding into Crontab 
+
+1) First create a log file by typing '**mkdir logs***'
+2) Open up the crontab window by typing '**sudo crontab -e**
+3) Navigate to the last line and add the job you want. For this is '**@reboot sh /home/pi/launcher.sh > /home/pi/logs/cronlog 2&&1**'
+4) Test by rebooting by typing '**sudo reboot now**'
+5) If it doesn't work, go to the logs and read the cronlog file
+
+**Tips**
+Find how to schedule Crontab jobs [here](https://crontab.guru/) and [here](https://www.tutorialspoint.com/unix_commands/crontab.htm)
+
+
+
