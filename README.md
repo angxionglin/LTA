@@ -132,3 +132,4 @@ Type '**ps -ef | grep python**' in the terminal to list the process status of th
 
 To kill the Python Program type '**kill -9 pid**' in the terminal where **pid** is the Program ID you saw in the terminal using the previous command.
 
+## Setup Database in Raspberry Pi
