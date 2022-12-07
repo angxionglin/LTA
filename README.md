@@ -128,7 +128,7 @@ Find how to schedule Crontab jobs [here](https://crontab.guru/) and [here](https
 
 ### How to check Python Program is running
 
-Type **ps -ef | grep python** in the terminal to list the process status of the Python Program/s
+Type '**ps -ef | grep python**' in the terminal to list the process status of the Python Program/s
 
-To kill the Python Program type **kill -9 pid** in the terminal where **pid** is the Program ID you saw in the terminal using the previous command.
+To kill the Python Program type '**kill -9 pid**' in the terminal where **pid** is the Program ID you saw in the terminal using the previous command.
 
