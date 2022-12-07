@@ -84,6 +84,7 @@ namespace Microsoft.MixedReality.OpenXR.BasicSample
                 item.GetComponentInChildren<TextMeshPro>().text = showFile;
                 item.GetComponentInChildren<Interactable>().OnClick.AddListener(delegate
                 {
+                    Debug.Log("file path = " + filePath);
                     OpenTodo(filename);
                 });
                 

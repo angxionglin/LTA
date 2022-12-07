@@ -103,6 +103,7 @@
     <Compile Include="Assets\Photon\PhotonVoice\Demos\DemoProximityVoiceChat\Scripts\ChangeName.cs" />
     <Compile Include="Assets\Photon\PhotonVoice\Demos\DemoVoicePun\Scripts\BetterToggle.cs" />
     <Compile Include="Assets\Shared\Scripts\StartUp.cs" />
+    <Compile Include="Assets\_Heathen Engineering\Samples\UX Examples\Flat Icons [Free]\ToggleSetAnimatorBoolean.cs" />
     <Compile Include="Assets\Settings\Scripts\ToggleUtilities.cs" />
     <Compile Include="Assets\Photon\PhotonVoice\Demos\DemoVoicePun\Scripts\FirstPersonController.cs" />
     <Compile Include="Assets\QRScanner\QRCodeStuff\QRCodesManager.cs" />
@@ -123,6 +124,7 @@
     <Compile Include="Assets\MRTK.Tutorials.MultiUserCapabilities\Scripts\PunExplodeViewController.cs" />
     <Compile Include="Assets\Photon\PhotonVoice\Demos\DemoVoicePun\Scripts\MouseLookHelper.cs" />
     <Compile Include="Assets\MRTK.Tutorials.AzureSpatialAnchors\Scripts\DebugWindow.cs" />
+    <Compile Include="Assets\Indoor Navigation\NavMapping.cs" />
     <Compile Include="Assets\CheckList\Scripts\Graph.cs" />
     <Compile Include="Assets\Samples\Mixed Reality Toolkit Examples\2.8.0\Demos - Input\Scenes\InputData\InputDataExampleGizmo.cs" />
     <Compile Include="Assets\Samples\Mixed Reality Toolkit Examples\2.8.0\Demos - UX\ProgressIndicator\Scripts\ProgressIndicatorDemo.cs" />
@@ -146,6 +148,7 @@
     <Compile Include="Assets\Samples\Mixed Reality Toolkit Examples\2.8.0\Demos - UX\Dwell\ToggleDwellSample.cs" />
     <Compile Include="Assets\Photon\PhotonVoice\Demos\DemoProximityVoiceChat\Scripts\ProximityVoiceTrigger.cs" />
     <Compile Include="Assets\FaceDetector\FaceRequestor.cs" />
+    <Compile Include="Assets\LTAVerse\ModelLoader.cs" />
     <Compile Include="Assets\Photon\PhotonVoice\Demos\DemoVoicePun\Editor\CrossPlatformInput\CrossPlatformInputInitialize.cs" />
     <Compile Include="Assets\Photon\PhotonChat\Demos\DemoChat\NamePickGui.cs" />
     <Compile Include="Assets\CheckList\Scripts\OpenCheckLists.cs" />
@@ -199,19 +202,17 @@
     <Compile Include="Assets\Samples\Mixed Reality Toolkit Examples\2.8.0\Demos - UX\ProgressIndicator\Scripts\ProgressIndicatorDemoAsyncMethod.cs" />
     <Compile Include="Assets\Samples\Mixed Reality Toolkit Examples\2.8.0\Demos - HandTracking\Scripts\HandInteractionTouchRotate.cs" />
     <Compile Include="Assets\MRTK.Tutorials.GettingStarted\Scripts\DirectionalIndicatorController.cs" />
-    <Compile Include="Assets\_Heathen Engineering\Samples\UX Examples\Flat Icons [Free]\ToggleSetAnimatorBoolean.cs" />
-    <Compile Include="Assets\Indoor Navigation\NavMapping.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Packages\Microsoft.VCRTForwarders.140.1.0.7\Unity\x64\msvcp140_app.dll" />
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
+    <None Include="Assets\Packages\System.Runtime.WindowsRuntime.UI.Xaml.4.6.0\version.txt" />
     <None Include="Assets\Photon\PhotonLibs\netstandard2.0\Photon3Unity3D.xml" />
     <None Include="Assets\MixedRealityToolkit.Generated\MRTK\Shaders\Text3DShader.shader" />
     <None Include="Assets\ExternalDependencyManager\Editor\1.2.172\Google.VersionHandlerImpl.dll" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />
     <None Include="Assets\Packages\Microsoft.Rest.ClientRuntime.Azure.3.3.18\lib\net452\Microsoft.Rest.ClientRuntime.Azure.xml" />
     <None Include="Assets\ExternalDependencyManager\Editor\1.2.172\Google.IOSResolver.dll" />
-    <None Include="Assets\Plugins\Newtonsoft\Newtonsoft.Json.dll" />
     <None Include="Assets\Parse\Plugins\Unity.Compat.dll" />
     <None Include="Assets\Packages\Microsoft.MixedReality.QR.0.5.3019\LICENSE.txt" />
     <None Include="Assets\Photon\PhotonVoice\PhotonVoiceLibs\WSA\x86\webrtc-audio.dll" />
@@ -223,6 +224,7 @@
     <None Include="Assets\MixedRealityToolkit.Generated\MRTK\Shaders\InstancedColored.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap.shader" />
     <None Include="Assets\Photon\PhotonVoice\PhotonVoiceLibs\WSA\x86\opus_egpv.dll" />
+    <None Include="Assets\Packages\System.Runtime.WindowsRuntime.4.6.0\useSharedDesignerContext.txt" />
     <None Include="Assets\Packages\Microsoft.MixedReality.QR.0.5.3019\lib\unity\net46\Microsoft.MixedReality.QR.DotNet.dll" />
     <None Include="Assets\MixedRealityToolkit.Generated\MRTK\Shaders\ChannelPacker.shader" />
     <None Include="Assets\Packages\Microsoft.MixedReality.QR.0.5.3019\Unity\x64\MonoSupport.dll" />
@@ -241,6 +243,7 @@
     <None Include="Assets\Photon\PhotonVoice\PhotonVoiceLibs\x86_64\webrtc-audio.dll" />
     <None Include="Assets\ExternalDependencyManager\Editor\Google.VersionHandler.dll" />
     <None Include="Assets\Photon\PhotonVoice\PhotonVoiceLibs\WSA\ARM\opus_egpv.dll" />
+    <None Include="Assets\Packages\System.Runtime.WindowsRuntime.4.6.0\THIRD-PARTY-NOTICES.TXT" />
     <None Include="Assets\LTA-HARP.asmdef" />
     <None Include="Assets\QRScanner\QRCodeStuff\Transparent.shader" />
     <None Include="Assets\Packages\Newtonsoft.Json.13.0.1\lib\net45\Newtonsoft.Json.xml" />
@@ -248,24 +251,30 @@
     <None Include="Assets\Packages\Microsoft.VCRTForwarders.140.1.0.7\Unity\x64\vcruntime140_1_app.dll" />
     <None Include="Assets\Photon\PhotonVoice\Demos\DemoVoicePun\Fonts\Orbitron Black.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Surface-Mobile.shader" />
+    <None Include="Assets\JsonDotNet\link.xml" />
     <None Include="Assets\Packages\Microsoft.VCRTForwarders.140.1.0.7\Unity\x64\msvcp140_1_app.dll" />
+    <None Include="Assets\JsonDotNet\Assemblies\Windows\Newtonsoft.Json.XML" />
     <None Include="Assets\MRTK.Tutorials.AzureSpatialAnchors\Version.txt" />
     <None Include="Assets\Packages\Microsoft.VCRTForwarders.140.1.0.7\Unity\x64\concrt140_app.dll" />
     <None Include="Assets\Packages\Microsoft.MixedReality.QR.0.5.3019\lib\unity\netstandard2.0\Microsoft.MixedReality.QR.DotNet.dll" />
     <None Include="Assets\ExternalDependencyManager\Editor\1.2.172\Google.PackageManagerResolver.dll" />
     <None Include="Assets\Plugins\Android\AndroidManifest.xml" />
+    <None Include="Assets\JsonDotNet\Assemblies\Standalone\Newtonsoft.Json.XML" />
     <None Include="Assets\Photon\PhotonVoice\PhotonVoiceLibs\x86_64\opus_egpv.dll" />
+    <None Include="Assets\JsonDotNet\Assemblies\Standalone\Newtonsoft.Json.dll" />
     <None Include="Assets\Packages\Microsoft.MixedReality.QR.0.5.3019\Unity\x86\Microsoft.MixedReality.QR.dll" />
+    <None Include="Assets\Packages\System.Runtime.WindowsRuntime.UI.Xaml.4.6.0\useSharedDesignerContext.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Surface.shader" />
     <None Include="Assets\TextMesh Pro\Sprites\EmojiOne Attribution.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap-Custom-Atlas.shader" />
+    <None Include="Assets\Packages\System.Runtime.WindowsRuntime.4.6.0\LICENSE.TXT" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF.shader" />
-    <None Include="Assets\Plugins\Newtonsoft\WSA\Newtonsoft.Json.dll" />
     <None Include="Assets\Photon\PhotonVoice\PhotonVoiceLibs\WSA\ARM\webrtc-audio.dll" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile SSD.shader" />
     <None Include="Assets\Photon\PhotonLibs\changes-library.txt" />
     <None Include="Assets\Photon\PhotonVoice\Demos\DemoVoiceUI\RobotoFont\Apache License.txt" />
     <None Include="Assets\TextMesh Pro\Resources\LineBreaking Leading Characters.txt" />
+    <None Include="Assets\Packages\System.Runtime.WindowsRuntime.4.6.0\version.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMPro_Properties.cginc" />
     <None Include="Assets\MRTK.Tutorials.GettingStarted\Version.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMPro_Surface.cginc" />
@@ -275,14 +284,18 @@
     <None Include="Assets\ObjectDetect\Shaders\GridShader.shader" />
     <None Include="Assets\Photon\PhotonVoice\PhotonVoiceLibs\WSA\x64\webrtc-audio.dll" />
     <None Include="Assets\Photon\PhotonLibs\netstandard2.0\Photon3Unity3D.dll" />
+    <None Include="Assets\JsonDotNet\Assemblies\AOT\Newtonsoft.Json.dll" />
     <None Include="Assets\Photon\PhotonVoice\Demos\DemoVoicePun\Audio\Reminder-public_d-291_hifi.mp3.txt" />
     <None Include="Assets\Photon\PhotonVoice\PhotonVoiceLibs\WSA\ARM\Photon.Voice.UWP.MediaExtensions.dll" />
+    <None Include="Assets\JsonDotNet\Assemblies\AOT\Newtonsoft.Json.XML" />
     <None Include="Assets\Photon\PhotonLibs\Photon3Unity3D.dll" />
     <None Include="Assets\Photon\PhotonVoice\PhotonVoiceLibs\WSA\x64\Photon.Voice.UWP.MediaExtensions.dll" />
     <None Include="Assets\TextMesh Pro\Resources\LineBreaking Following Characters.txt" />
     <None Include="Assets\Photon\PhotonLibs\Metro\Photon3Unity3D.dll" />
     <None Include="Assets\Packages\Microsoft.MixedReality.QR.0.5.3019\Unity\arm\Microsoft.MixedReality.QR.dll" />
     <None Include="Assets\MixedRealityToolkit.Generated\MRTK\Shaders\MixedRealityStandard.shader" />
+    <None Include="Assets\Packages\System.Runtime.WindowsRuntime.UI.Xaml.4.6.0\THIRD-PARTY-NOTICES.TXT" />
+    <None Include="Assets\JsonDotNet\Assemblies\Windows\Newtonsoft.Json.dll" />
     <None Include="Assets\_Heathen Engineering\Documentation\UX\Flat Icons [Free]\Read Me.txt" />
     <None Include="Assets\Packages\Microsoft.Windows.MixedReality.DotNetWinRT.0.5.1049\LICENSE.txt" />
     <None Include="Assets\MixedRealityToolkit.Generated\MRTK\Shaders\MixedRealityTextMeshPro.shader" />
@@ -296,6 +309,7 @@
     <None Include="Assets\Parse\Plugins\dotNet45\Unity.Compat.dll" />
     <None Include="Assets\NuGet\Editor\NugetForUnity.dll" />
     <None Include="Assets\Photon\PhotonLibs\Photon3Unity3D.xml" />
+    <None Include="Assets\Packages\System.Runtime.WindowsRuntime.UI.Xaml.4.6.0\LICENSE.TXT" />
     <None Include="Assets\Parse\Plugins\dotNet45\Unity.Tasks.dll" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF Overlay.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap-Mobile.shader" />
@@ -537,6 +551,9 @@
     <Reference Include="UnityEditor.UI">
       <HintPath>Library\ScriptAssemblies\UnityEditor.UI.dll</HintPath>
     </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>Assets\JsonDotNet\Assemblies\Standalone\Newtonsoft.Json.dll</HintPath>
+    </Reference>
     <Reference Include="Photon3Unity3D">
       <HintPath>Assets\Photon\PhotonLibs\netstandard2.0\Photon3Unity3D.dll</HintPath>
     </Reference>
@@ -545,9 +562,6 @@
     </Reference>
     <Reference Include="Photon.Voice.UWP">
       <HintPath>Assets\Photon\PhotonVoice\PhotonVoiceLibs\WSA\Photon.Voice.UWP.winmd</HintPath>
-    </Reference>
-    <Reference Include="Newtonsoft.Json">
-      <HintPath>Assets\Plugins\Newtonsoft\WSA\Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Tasks">
       <HintPath>Assets\Parse\Plugins\dotNet45\Unity.Tasks.dll</HintPath>
@@ -1258,6 +1272,10 @@
     <ProjectReference Include="PhotonVoice.API.Player.csproj">
       <Project>{1A18AB8D-9B98-66B5-64AB-1DD143DCB485}</Project>
       <Name>PhotonVoice.API.Player</Name>
+    </ProjectReference>
+    <ProjectReference Include="Siccity.GLTFUtility.Player.csproj">
+      <Project>{317C1AC4-E948-9FB1-407A-8BA10193C27B}</Project>
+      <Name>Siccity.GLTFUtility.Player</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEngine.UI.Player.csproj">
       <Project>{A6489B33-67C2-B516-53FD-CD69E2737F17}</Project>
