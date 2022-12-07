@@ -151,3 +151,17 @@ To kill the Python Program type '**kill -9 pid**' in the terminal where **pid** 
 4) '**GRANT ALL PRIVILEGES ON exampledb.* TO 'exampleuser'@'localhost';**'
 5) '**FLUSH PRIVILEGES;**'
 6) '**quit;**'
+
+### Installing PHPMyAdmin on RPI
+
+1) '**sudo apt install php-mysql**'
+2) '**sudo apt install phpmyadmin**'
+3) Go with default configuration and configure databse for phpmyadmin with dbconfig-common with -yes-
+
+### Configuring Apache for PHPMyAdmin
+
+1) '**sudo nano /etc/apache2/apache2.conf**'
+2) Go to the last line of the file and type '**Include /etc/phpmyadmin/apache.conf**'
+3) Restart the service by '**sudo service apache2 restart**'
+4) '**ifconfig**' to check your ip address
+5) Go to a webpage and enter your ip address /phpmyadmin Eg. http://192.168.1.1/phpmyadmin
