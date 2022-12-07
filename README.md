@@ -104,10 +104,13 @@ Type "**python Server.py**" to run the script
 
 This is how the script should look like:
 
-#!/bin/sh
-cd /
-cd /home/pi
-sudo python3 Server.py
+**#!/bin/sh**
+
+**cd /**
+
+**cd /home/pi**
+
+**sudo python3 Server.py**
 
 5) Remember to change the mode of the read, write, execute level of the shell script by typing '**chmod 755 launcher.sh**'
 6) Now test the shell script by typing '**sh launcher.sh**'
@@ -123,5 +126,9 @@ sudo python3 Server.py
 **Tips**
 Find how to schedule Crontab jobs [here](https://crontab.guru/) and [here](https://www.tutorialspoint.com/unix_commands/crontab.htm)
 
+### How to check Python Program is running
 
+Type **ps -ef | grep python** in the terminal to list the process status of the Python Program/s
+
+To kill the Python Program type **kill -9 pid** in the terminal where **pid** is the Program ID you saw in the terminal using the previous command.
 
