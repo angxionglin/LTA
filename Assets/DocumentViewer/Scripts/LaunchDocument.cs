@@ -44,8 +44,7 @@ namespace Microsoft.MixedReality.OpenXR.BasicSample
 
 #else
             // for debugging purposes
-            Debug.Log("else");
-            UnityEngine.WSA.Launcher.LaunchUri(Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments), false);
+            UnityEngine.WSA.Launcher.LaunchUri(Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments) + "/Operation-Checklist.pdf", false);
 
 #endif
             

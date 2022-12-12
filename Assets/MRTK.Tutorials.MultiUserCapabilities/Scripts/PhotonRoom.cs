@@ -45,7 +45,7 @@ namespace MRTK.Tutorials.MultiUserCapabilities
             dict.Add(mat3);
             dict.Add(mat4);
             dict.Add(mat5);
-            photonUserPrefab.transform.GetChild(1).GetChild(0).GetChild(0).GetComponent<Renderer>().material = dict[num]; ;
+            photonUserPrefab.transform.GetChild(1).GetChild(0).GetChild(0).GetComponent<Renderer>().material = dict[num];
             
             //photonUserPrefab.transform.GetChild(1).GetChild(0).GetChild(0).GetComponent<Renderer>().material.color = Random.ColorHSV(0f, 1f, 1f, 1f, 0.5f, 1f);
         }
