@@ -4,7 +4,7 @@
 - Hololens 2
 - Mirage Solo
 - Mobile Android
-- Mobile IOS
+- Mobile iOS
 - R&T Website
 - Server (Raspberry Pi 4 Model B)
 
