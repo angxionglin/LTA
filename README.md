@@ -31,7 +31,7 @@
 - Collaboration
 - Check Room Status
 
-### Mobile IOS
+### Mobile iOS
 
 1) LTA-Verse (Virtual Reality)
 - Collboration
@@ -69,7 +69,7 @@
 2) Able to enter your unique username for your character
 3) Deploy on Playstore
 
-### Mobile IOS
+### Mobile iOS
 
 1) Improve Movement and Rotation 
 2) Able to enter your unique username for your character
@@ -102,7 +102,7 @@
 
 1) Movement unable to control (Probably due ot 3D Model too small)
 
-### Mobile IOS
+### Mobile iOS
 
 1) Movement and Rotation different from Android even though its the same project
 
