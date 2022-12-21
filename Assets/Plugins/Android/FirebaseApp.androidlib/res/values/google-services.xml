@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/firebase_database_url,@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id">
+  <string name="firebase_database_url" translatable="false">https://dlab-d97d7-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+  <string name="gcm_defaultSenderId" translatable="false">276815547947</string>
+  <string name="google_storage_bucket" translatable="false">dlab-d97d7.appspot.com</string>
+  <string name="project_id" translatable="false">dlab-d97d7</string>
+  <string name="google_api_key" translatable="false">AIzaSyCKX8ynyECwyi4OVcDE3tK1PorvrdVD9uQ</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCKX8ynyECwyi4OVcDE3tK1PorvrdVD9uQ</string>
+  <string name="google_app_id" translatable="false">1:276815547947:android:9eeb3d8608988240a0e46e</string>
+  <string name="default_web_client_id" translatable="false">276815547947-lb7bko7b8pra4p178gr1e8iv6fae7g2r.apps.googleusercontent.com</string>
+</resources>

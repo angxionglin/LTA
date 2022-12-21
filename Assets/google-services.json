@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "276815547947",
+    "firebase_url": "https://dlab-d97d7-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "dlab-d97d7",
+    "storage_bucket": "dlab-d97d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276815547947:android:9eeb3d8608988240a0e46e",
+        "android_client_info": {
+          "package_name": "com.ltaandriodtest.artest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "276815547947-lb7bko7b8pra4p178gr1e8iv6fae7g2r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKX8ynyECwyi4OVcDE3tK1PorvrdVD9uQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "276815547947-lb7bko7b8pra4p178gr1e8iv6fae7g2r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
