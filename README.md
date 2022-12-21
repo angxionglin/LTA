@@ -22,8 +22,8 @@ Go to Visual Studio Installer and Download the Necessary Workloads Stated Below
 -[SuperTiled2Unity](https://seanba.itch.io/supertiled2unity)
 
 ### Installation of Map Editor and Image Generator
--[Tiled](https://www.mapeditor.org/)
--[Aseprite](https://www.aseprite.org/) alternative, can use [pixel art](https://www.pixilart.com/draw) online
+- [Tiled](https://www.mapeditor.org/)
+- [Aseprite](https://www.aseprite.org/) alternative, can use [pixel art](https://www.pixilart.com/draw) online
 
 ---
 
