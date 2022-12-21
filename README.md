@@ -23,11 +23,16 @@ Go to Visual Studio Installer and Download the Necessary Workloads Stated Below
 
 ### Installation of Map Editor and Image Generator
 - [Tiled](https://www.mapeditor.org/)
-- [Aseprite](https://www.aseprite.org/) alternative, can use [pixel art](https://www.pixilart.com/draw) online
+- [Aseprite](https://www.aseprite.org/) or [pixel art](https://www.pixilart.com/draw) online
 
 ---
 
 ## Setting up the Working Environment
+
+### Creating the Project
+
+1) Open Unity Hub
+2) New Project -> 2D (Core)
 
 ### Asset from Unity Store
 
