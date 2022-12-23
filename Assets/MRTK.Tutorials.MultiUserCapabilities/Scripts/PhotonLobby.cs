@@ -58,6 +58,7 @@ namespace MRTK.Tutorials.MultiUserCapabilities
             var randomUserId = Random.Range(0, 999999);
             PhotonNetwork.AutomaticallySyncScene = true;
             PhotonNetwork.AuthValues = new AuthenticationValues();
+            //get the username entered by user from previous scene. name only start from the 8th letter
             Debug.Log("onconnectedtomaster keytext = " + keyText.text.Substring(7));
             var uname= keyText.text.Split(' ');
             PhotonNetwork.AuthValues.UserId = keyText.text.Substring(7);

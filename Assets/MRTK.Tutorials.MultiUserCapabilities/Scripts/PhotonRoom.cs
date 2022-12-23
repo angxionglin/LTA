@@ -40,12 +40,13 @@ namespace MRTK.Tutorials.MultiUserCapabilities
             photonUserPrefab.GetComponentInChildren<TextMeshPro>().text = newPlayer.NickName;
             Debug.Log(newPlayer.UserId);
             var num = Random.Range(0, 4);
+            //add 5 material to the List to generate random material for each different avatar
             dict.Add(mat1);
             dict.Add(mat2);
             dict.Add(mat3);
             dict.Add(mat4);
             dict.Add(mat5);
-            photonUserPrefab.transform.GetChild(1).GetChild(0).GetChild(0).GetComponent<Renderer>().material = dict[num];
+            photonUserPrefab.transform.GetChild(1).GetChild(0).GetChild(0).GetComponent<Renderer>().material = dict[num]; ;
             
             //photonUserPrefab.transform.GetChild(1).GetChild(0).GetChild(0).GetComponent<Renderer>().material.color = Random.ColorHSV(0f, 1f, 1f, 1f, 0.5f, 1f);
         }

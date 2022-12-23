@@ -25,6 +25,8 @@ namespace Microsoft.MixedReality.OpenXR.BasicSample
         /// </summary>
         public async void PressedButton()
         {
+
+           
 #if !UNITY_EDITOR && UNITY_WSA_10_0
 
                     UnityEngine.WSA.Application.InvokeOnUIThread(async () =>
@@ -43,8 +45,9 @@ namespace Microsoft.MixedReality.OpenXR.BasicSample
 
 
 #else
-            // for debugging purposes
-            UnityEngine.WSA.Launcher.LaunchUri(Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments) + "/Operation-Checklist.pdf", false);
+            //show all pdf files in "My Documents"
+            Debug.Log("else");
+            UnityEngine.WSA.Launcher.LaunchUri(Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments), false);
 
 #endif
             
