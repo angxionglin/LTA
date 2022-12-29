@@ -5,8 +5,8 @@
 - Mirage Solo
 - Mobile Android
 - Mobile iOS
-- R&T Website
 - Server (Raspberry Pi 4 Model B)
+- Active Mobility Web Game
 
 ## Current Features
 
@@ -23,7 +23,6 @@
 9) LTA-Verse (Work in Progress) (Augmented Reality)
 - Collaboration (No Voice)
 - Check Room Status
-
 
 ### Mobile Anddroid 
 
