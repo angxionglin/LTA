@@ -27,7 +27,14 @@ Go to Visual Studio Installer and Download the Necessary Workloads Stated Below
 
 ---
 
-## Setting up the Working Environment
+## Setting up the Working Environment from Downloaded Asset
+
+### Opening Unity Project
+
+1) Open Unity Hub
+2) Open Project -> Select Downloaded Project
+
+## Setting up the Working Environment from Scratch
 
 ### Creating the Project
 
