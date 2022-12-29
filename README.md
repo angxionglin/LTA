@@ -98,6 +98,7 @@ Drag and Drop the player into the Hierarchy and Tune the settings to suit your p
 ![Pic 1](https://user-images.githubusercontent.com/25051402/209914293-947de7b9-983c-4833-a3e8-80cae1a3163e.jpg)
 5)  Under your **Targets**, choose your **UnityFramework** 
 6)  Ensure For **For install build only** is checked
+![Pic 2](https://user-images.githubusercontent.com/25051402/209914612-2123c59d-f05d-48e2-85cf-426398604f2c.jpg)
 7)  Plug in an iOS Device with a cable that allows data transfer
 8)  Build and Run your Project
 
