@@ -1,5 +1,8 @@
 # Mirage Solo
 
+## Note
+This will be used in Android and iOS Build later on
+
 ## Installation of Necessary Softwares/Toolkits/Packages/Dependencies/SDK
 
 ### Getting the required Assets
