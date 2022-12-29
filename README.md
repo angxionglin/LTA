@@ -74,13 +74,20 @@ Go to File -> Build Setting -> WebGL
 
 If not Downloaded, Download in Unity Editor and Restart the Project
 
-### Ensure Non-Compressed
+### Disable Compression Format
 
+1) Go to File -> Build Settings -> Player Settings
+![image](https://user-images.githubusercontent.com/25051402/209916303-b1eee72e-7d6f-4247-b259-fe19e5b264ec.png)
+2) Go to Player -> Publishing Settings
+3) Under Compression Format -> Select Disabled
+![image](https://user-images.githubusercontent.com/25051402/209916468-305da456-01d2-469c-bf6a-e2f6e21415a0.png)
 
 ### Testing & Deploying
 
 For Testing, just press play in Unity.
+![image](https://user-images.githubusercontent.com/25051402/209916155-7e40f7d6-c903-48ad-be9b-ffde3bf23a8d.png)
 To test how it looks on WebPage, Click File -> Build Setting -> Select WebGL -> Build and Run
+![image](https://user-images.githubusercontent.com/25051402/209916109-94901c68-c116-451c-970f-a46e2f650f19.png)
 
 For Deploying, Zip the file and upload to [itch.io](itch.io)
 
