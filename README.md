@@ -92,7 +92,15 @@ Drag and Drop the player into the Hierarchy and Tune the settings to suit your p
 ### Deploying the Project
 
 1) File -> Build Setting -> iOS -> Build
-2) Open your folder in xCode, make sure it is the version in compatible. You can check it [here](https://developer.apple.com/support/xcode/)
+2) Open your folder you built in xCode, make sure it is the version in compatible. You can check it [here](https://developer.apple.com/support/xcode/)
+3) Under your **Targets**, choose your **Project**
+4) Under **Signing & Capabilities**, ensure **Automatic manage signing is checked**
+![Pic 1](https://user-images.githubusercontent.com/25051402/209914293-947de7b9-983c-4833-a3e8-80cae1a3163e.jpg)
+5)  Under your **Targets**, choose your **UnityFramework** 
+6)  Ensure For **For install build only** is checked
+7)  Plug in an iOS Device with a cable that allows data transfer
+8)  Build and Run your Project
+
 
 
 
