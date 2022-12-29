@@ -25,6 +25,9 @@ Go to Visual Studio Installer and Download the Necessary Workloads Stated Below
 - [Tiled](https://www.mapeditor.org/)
 - [Aseprite](https://www.aseprite.org/) or [pixel art](https://www.pixilart.com/draw) online
 
+### Convert Image to Pixel Art
+- [Pixel It](https://giventofly.github.io/pixelit/)
+
 ---
 
 ## Setting up the Working Environment from Downloaded Asset
