@@ -89,6 +89,11 @@ Download [Character/Avatar](https://assetstore.unity.com/packages/essentials/sta
 
 Drag and Drop the player into the Hierarchy and Tune the settings to suit your program/app.
 
+### Deploying the Project
+
+File -> Build Setting -> Android -> Build
+![image](https://user-images.githubusercontent.com/25051402/209899161-070bb531-3f06-4043-926a-5fe7d06acd74.png)
+Select the .apk File and download on your Device
 
 
 
