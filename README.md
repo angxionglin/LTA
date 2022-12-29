@@ -71,16 +71,6 @@ Download Android in Unity Editor if it is not downloaded
 3) Paste on the Unity Project you created
 4) Remove/Replace all GVR Controller Dependent items
 
-### Download Player Asset 
-
-Download [Character/Avatar](https://assetstore.unity.com/packages/essentials/starter-assets-first-person-character-controller-196525)
-
-1) Go to Unity Project
-2) Window -> Package Manager -> My Assets -> Starter Assets - First Person Character Controller -> Download -> Import
-![image](https://user-images.githubusercontent.com/25051402/209898307-80d197c4-2b5f-495e-9a01-c288ed665b9b.png)
-
-Drag and Drop the player into the Hierarchy and Tune the settings to suit your program/app.
-
 ### Importing from Asset Store
 1) Navigate to Window -> Package Manager
 
@@ -88,6 +78,18 @@ Drag and Drop the player into the Hierarchy and Tune the settings to suit your p
 
 2) Under the Packages, Select 'My Assets' -> Import / Reimport. For this instance is [PUN2](https://assetstore.unity.com/packages/tools/network/pun-2-free-119922) and [Photon Voice 2](https://assetstore.unity.com/packages/tools/audio/photon-voice-2-130518).
 (If you do not have the assets, go to [Unity Asset Store](https://assetstore.unity.com/) and add it into your asset)
+
+### Download Player Asset 
+
+Download [Character/Avatar](https://assetstore.unity.com/packages/essentials/starter-assets-first-person-character-controller-196525) from Asset Store
+
+1) Go to Unity Project
+2) Window -> Package Manager -> My Assets -> Starter Assets - First Person Character Controller -> Download -> Import
+![image](https://user-images.githubusercontent.com/25051402/209898307-80d197c4-2b5f-495e-9a01-c288ed665b9b.png)
+
+Drag and Drop the player into the Hierarchy and Tune the settings to suit your program/app.
+
+
 
 
 
