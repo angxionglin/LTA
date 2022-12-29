@@ -2,6 +2,10 @@
 
 ---
 
+# Skip to **Deploying the Project Section Step 2** if you download from the current Github Repo
+
+## Unity Asset found in Mobile-Android 
+
 ## Installation of Necessary Softwares/Toolkits/Packages/Dependencies/SDK
 
 ### Getting the required Assets
