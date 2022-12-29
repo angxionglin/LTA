@@ -11,7 +11,7 @@ Git Clone / Pull or Download as Zip in the following GitHub Repository
 Unity Hub is required to open or run any of the Unity Projects. You can install them by clicking [here](https://public-cdn.cloud.unity3d.com/hub/prod/UnityHubSetup.exe) if not visit the official website [here](https://unity3d.com/get-unity/download)
 
 ### Choose your appropriate Unity Version that you need.
-For this case we're using **2020.3.33f1** where you can find all the archive [here](https://unity3d.com/get-unity/download/archive)
+For this case we're using **2021.3.36f1** where you can find all the archive [here](https://unity3d.com/get-unity/download/archive)
 
 ### Choose the Visual Studio you prefer to use
 Tested with VS Community 2022 and VS Commmunity 2019. You can find these [here](https://visualstudio.microsoft.com/downloads/)
@@ -34,7 +34,9 @@ Go to Visual Studio Installer and Download the Necessary Workloads Stated Below
 1) Open Unity Hub
 2) New Project -> 2D (Core)
 
-### Asset from Unity Store
+### Installing and Importing Packages in Unity
+
+Install the NuGet for Unity by Assets -> Import Package -> Custom Package -> Select [SuperTiled2Unity](https://seanba.itch.io/supertiled2unity)
 
 ### Linking up Visual Studio and Unity for Auto Complete statements when coding / developing in Visual Studio
 
