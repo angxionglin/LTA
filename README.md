@@ -64,3 +64,29 @@ Check the following
 
 ![image](https://user-images.githubusercontent.com/25051402/201814555-b883820b-f0c9-43b9-8ba7-52a8ad66a7fb.png)
 ![image](https://user-images.githubusercontent.com/25051402/201815209-163efeb2-6fe6-4a0c-a076-237235f14db8.png)
+
+### Switching Platform to WebGL
+
+Go to File -> Build Setting -> WebGL
+
+If not Downloaded, Download in Unity Editor and Restart the Project
+
+### Ensure Non-Compressed
+
+
+### Testing & Deploying
+
+For Testing, just press play in Unity.
+To test how it looks on WebPage, Click File -> Build Setting -> Select WebGL -> Build and Run
+
+For Deploying, Zip the file and upload to [itch.io](itch.io)
+
+
+## Tutorial
+
+- [Tiled](https://www.youtube.com/watch?v=ZwaomOYGuYo&list=PL6wuv1YGOTFfxi8pdN2ghWmDqZqy3_XA7)
+- [Aseprite](https://www.youtube.com/watch?v=tFsETEP01k8)
+- [Unity Web Game](https://youtube.com/playlist?list=PL4vbr3u7UKWp0iM1WIfRjCDTI03u43Zfu)
+
+
+
