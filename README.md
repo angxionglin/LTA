@@ -206,5 +206,5 @@ Rest just leave it as it is
 
 **Takes around 5-15min per Upload**
 
-**Note SilverGate might not be able to communicate with each other even though it is in the same network due to security reasons**
+**Note SilverGate might not be able to communicate with each other even though it is in the same network due to security reasons (Probably)**
 
