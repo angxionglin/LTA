@@ -6,7 +6,7 @@
 - Mobile Android
 - Mobile iOS
 - Server (Raspberry Pi 4 Model B)
-- Active Mobility Web Game
+- Active Mobility Web App
 
 ## Current Features
 
