@@ -91,7 +91,6 @@ To test how it looks on WebPage, Click File -> Build Setting -> Select WebGL -> 
 
 For Deploying, Zip the file and upload to [itch.io](itch.io)
 
-
 ## Tutorial
 
 - [Tiled](https://www.youtube.com/watch?v=ZwaomOYGuYo&list=PL6wuv1YGOTFfxi8pdN2ghWmDqZqy3_XA7)
@@ -100,4 +99,9 @@ For Deploying, Zip the file and upload to [itch.io](itch.io)
 - To use tilemap in unity directly instead of using [Tiled](https://www.mapeditor.org/). Refer [here](https://www.youtube.com/watch?v=ryISV_nH8qw&t=627s)
 - Collison and Layer Sorting using [Tiled](https://www.mapeditor.org/) and Unity. Refer [here](https://www.youtube.com/watch?v=iJINzMUxlkA&t=220s)
 
+## Quick Guide on Creating Boundaries
 
+![image](https://user-images.githubusercontent.com/25051402/210027918-6126524c-4a9e-40b3-8784-d9bde1885c7e.png)
+![image](https://user-images.githubusercontent.com/25051402/210028050-8cb97f71-7022-463b-a803-9bd616c1ed7a.png)
+
+Remember to save after adding borders to your tileset Asset
