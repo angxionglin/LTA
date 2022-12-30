@@ -24,7 +24,7 @@ class MyHandler(FileSystemEventHandler):
     def on_modified(self, event):
         # print("on_modified", event.src_path)
         print("SQL Database Modified...")
-        result = executeSQLQuery("SELECT * FROM DLabRooms;")
+        result = executeSQLQuery("SELECT RoomName, BookedTime FROM `DLabRooms` WHERE BookedTime BETWEEN CURRENT_DATE() AND CURRENT_DATE()+1;")
         client.publish('LTAResult', payload=str(result), qos=0, retain=False)
         print("Published to LTAVerse\n")
 
@@ -63,7 +63,17 @@ def executeSQLQuery(query):
                 status += str(cursor.rowcount)
                 status += " rows inserted."
             elif "SELECT" in query:
+                # results = cursor.fetchall()
                 status = DataFrame(cursor.fetchall()).values.tolist()
+                
+                # for result in results:
+                #     result = str(result)
+                #     if ',' in result:
+                #         result = result.lstrip(')')
+                #     if '\'' in str(result):
+                #         result = result.replace('\'', '')
+                #     print(result)
+                #     status += str(result) + " "
             elif "UPDATE" in query:
                 status += str(cursor.rowcount)
                 status += " record(s) affected."
