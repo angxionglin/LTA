@@ -24,7 +24,7 @@
 - Collaboration (No Voice)
 - Check Room Status
 
-### Mobile Anddroid 
+### Mobile Android 
 
 1) LTA-Verse (Virtual Reality)
 - Collaboration
@@ -36,6 +36,14 @@
 - Collboration
 - Check Room Status
 
+### Active Mobility Web App
+
+1) Map 
+- Collider for the infrastructures
+2) UI
+- Coins to lead the user on the correct path
+- When user go on the wrong path there will be a bomb to minus his/her health
+- When the user receive a message for quest there will be a notification on the menu bar
 ---
 
 ## Rooms for Improvement
@@ -83,6 +91,12 @@
 - Users who are close to one another can hear each other in the LTAVerse
 4) Expand virtual world into LTA office
 - Expand virtual world into the LTA compound so user can walk around virtually at LTA
+
+### Active Mobility Web App
+
+1) Function working for the coin path (coins disappear when the user collect it)
+2) Deduct health when user step on the bomb
+3) Messaging system to receive message/quest
 
 ---
 
